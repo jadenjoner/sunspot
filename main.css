@@ -1,1 +1,68 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Maven Pro', sans-serif;
+  font-weight: 100;
+  user-select: none;
+  border: 0;
+}
 
+img { 
+  -webkit-user-drag: none; 
+  -khtml-user-drag: none; 
+  -moz-user-drag: none; 
+  -o-user-drag: none; 
+  -webkit-appearance: none;
+  appearance: none;
+  user-select: none;
+}
+
+html{
+  overflow: hidden;
+  overflow-y: visible;
+  scroll-behavior: smooth;
+}
+
+body{
+  background-image: url("img/title-background.svg");
+  perspective: 1vh;
+  height: 100vh;
+  transform-style: preserve-3d;
+  overflow-x: hidden;
+  overflow-y: auto;
+  scroll-behavior: smooth;
+}
+
+
+
+/* width */
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar:hover {
+  width: 15px;
+}
+
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: rgb(48, 48, 48); 
+  border: 2px solid rgb(48, 48, 48);
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #ffe46cff; 
+  border: 2px solid rgb(48, 48, 48);
+  border-radius: 99vh;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: rgb(236, 209, 87); 
+}
+
+.select{
+  cursor: pointer;
+}
