@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,13 +8,13 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100.0001mm"
-   height="64.339447mm"
-   viewBox="0 0 100.0001 64.339445"
+   width="35.947525mm"
+   height="24.066647mm"
+   viewBox="0 0 35.947525 24.066646"
    version="1.1"
    id="svg892"
-   sodipodi:docname="wave-about.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   sodipodi:docname="marketing.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
   <defs
      id="defs886">
     <style
@@ -24,7 +22,7 @@
     <linearGradient
        gradientUnits="userSpaceOnUse"
        y2="487.09"
-       x2="905.61"
+       x2="905.60999"
        y1="487.09"
        x1="801"
        id="linear-gradient">
@@ -43,88 +41,80 @@
        y2="605.94"
        x2="-430.12"
        y1="605.94"
-       x1="-819.77"
+       x1="-819.77002"
        id="linear-gradient-2" />
     <linearGradient
        xlink:href="#linear-gradient"
        gradientTransform="translate(1813.48)"
-       y2="923.68"
+       y2="923.67999"
        x2="-1092.6"
-       y1="796.6"
+       y1="796.59998"
        x1="-1009.76"
        id="linear-gradient-3" />
     <linearGradient
        xlink:href="#linear-gradient"
        gradientTransform="translate(1813.48)"
-       y2="922.04"
+       y2="922.03998"
        x2="-1095.12"
-       y1="794.96"
+       y1="794.96002"
        x1="-1012.28"
        id="linear-gradient-4" />
     <linearGradient
        xlink:href="#linear-gradient"
        gradientTransform="matrix(-1,0,0,1,-1972.47,0)"
-       y2="700.92"
-       x2="-2007.81"
-       y1="700.92"
-       x1="-2852.44"
+       y2="700.91998"
+       x2="-2007.8101"
+       y1="700.91998"
+       x1="-2852.4399"
        id="linear-gradient-5" />
     <clipPath
        id="clip-path">
       <polygon
          id="polygon4144"
-         points="314.43 219.46 163.5 308.45 163.5 454.45 201.31 526.45 351.98 434.88 354.97 312.18 314.43 219.46"
+         points="163.5,308.45 163.5,454.45 201.31,526.45 351.98,434.88 354.97,312.18 314.43,219.46 "
          class="cls-1" />
     </clipPath>
     <linearGradient
        xlink:href="#linear-gradient"
        y2="961.37"
-       x2="725.1"
+       x2="725.09998"
        y1="961.37"
-       x1="501.86"
+       x1="501.85999"
        id="linear-gradient-6" />
     <linearGradient
        xlink:href="#linear-gradient"
        gradientTransform="matrix(-1,0,0,1,34689.17,0)"
        y2="693.5"
-       x2="34276.56"
-       y1="598.41"
-       x1="34190.76"
+       x2="34276.559"
+       y1="598.40997"
+       x1="34190.762"
        id="linear-gradient-7" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linear-gradient"
-       id="linearGradient6497"
-       gradientUnits="userSpaceOnUse"
-       x1="801"
-       y1="487.09"
-       x2="905.61"
-       y2="487.09" />
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#222222"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="156.2267"
-     inkscape:cy="151.68357"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="66.60869"
+     inkscape:cy="44.689482"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="Object"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1680"
-     inkscape:window-height="988"
+     inkscape:window-width="2560"
+     inkscape:window-height="1378"
      inkscape:window-x="0"
      inkscape:window-y="34"
      inkscape:window-maximized="1"
      inkscape:snap-page="true"
-     showguides="false" />
+     showguides="false"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata889">
     <rdf:RDF>
@@ -133,7 +123,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -141,188 +131,22 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-45.546131,-88.73647)">
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path1459"
-       d="m 45.546131,93.348069 c 0,0 19.841667,5.533922 28.175,5.533922 19.383237,1.435339 38.262049,-9.630512 51.058329,-10.145521 8.33334,0 20.76667,4.611599 20.76667,4.611599 V 128.573 H 45.546131 Z"
-       style="opacity:1;vector-effect:none;fill:#141414;fill-opacity:0.07035175;stroke:none;stroke-width:0.05531178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       style="opacity:1;vector-effect:none;fill:#141414;fill-opacity:0.07035175;stroke:none;stroke-width:0.05531178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 145.54613,148.79371 c 0,0 -19.84167,2.28934 -28.175,2.28934 -6.85287,-0.50746 -13.64269,-4.34184 -20.122955,-3.74095 -11.849062,1.09871 -22.663171,5.40089 -30.935374,5.73382 -8.33334,0 -20.76667,-1.72935 -20.76667,-1.72935 v -35.22491 h 99.999999 z"
-       id="path814"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccsccccc" />
-    <path
-       id="path816"
-       style="opacity:1;vector-effect:none;fill:#141414;fill-opacity:1;stroke:none;stroke-width:0.05531178;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 45.546131,120.38312 v 27.27418 c 0,0 12.433351,2.98107 20.766691,2.98107 8.198061,-0.32995 18.892689,-5.09799 30.617059,-6.50671 6.576089,-0.79013 13.476149,2.40047 20.441319,2.91625 8.33333,0 28.17503,-1.94346 28.17503,-1.94346 V 120.38312 Z M 124.77954,91.50343 c -12.79628,0.515009 -31.675148,13.42551 -51.058385,11.99016 -8.333333,0 -28.175024,-6.456242 -28.175024,-6.456242 V 121.10775 H 145.54623 V 97.037348 c 0,0 -12.43335,-5.533918 -20.76669,-5.533918 z"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccsccccccccccc" />
+     transform="translate(-45.480817,-88.827799)">
     <g
        aria-label="Who we Are"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.8293px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.120732"
        id="text848"
        transform="translate(0.5291667)">
       <g
          aria-label="We’re a small team of marketing and technology experts. Over the past decade, these two critical areas of business have become integrative and mutually beneficial. They are often more than the sum of their parts when it comes to going above and beyond for your customers and delighting your company stakeholders. "
          transform="matrix(0.26458333,0,0,0.26458333,43.18378,87.224565)"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;line-height:1.25;font-family:'Maven Pro',sans-serif;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Maven Pro', sans-serif;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none"
          id="flowRoot842" />
     </g>
     <g
-       id="g867"
-       transform="translate(0,-2.6458332)">
-      <path
-         inkscape:connector-curvature="0"
-         id="path825"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
-         d="m 84.649843,109.89271 q -0.20283,0.64713 -0.41049,1.19767 -0.20766,0.55054 -0.415319,1.0721 h -0.468442 q -0.255953,-0.73888 -0.453954,-1.55986 -0.193172,-0.82098 -0.362197,-1.78684 h 0.492588 q 0.06761,0.37668 0.14005,0.75337 0.07244,0.37668 0.149708,0.73405 0.07727,0.35254 0.154537,0.6761 0.07727,0.32356 0.159367,0.59883 0.193172,-0.50707 0.41049,-1.11073 0.217319,-0.60849 0.405661,-1.25562 h 0.405661 q 0.188343,0.64713 0.41049,1.25562 0.222148,0.60366 0.41532,1.11073 0.07727,-0.27044 0.154537,-0.594 0.07727,-0.32356 0.149708,-0.6761 0.07727,-0.35737 0.149708,-0.73405 0.07244,-0.38152 0.14005,-0.7582 h 0.4781 q -0.173854,0.96586 -0.371855,1.78684 -0.193172,0.82098 -0.444296,1.55986 h -0.468441 q -0.212489,-0.52156 -0.41532,-1.0721 -0.20283,-0.55054 -0.405661,-1.19767 z"
-         transform="translate(-7.0833332e-7,1.0208333e-6)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path827"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
-         d="m 87.276975,112.16248 v -3.67027 l 0.449125,-0.0773 v 1.28459 q 0.125562,-0.0483 0.265611,-0.0724 0.144879,-0.029 0.284929,-0.029 0.299416,0 0.497417,0.0869 0.198001,0.0821 0.313904,0.23664 0.120733,0.1497 0.169026,0.36219 0.04829,0.21249 0.04829,0.46844 v 1.41016 h -0.449125 v -1.31357 q 0,-0.23181 -0.03381,-0.396 -0.02898,-0.1642 -0.101415,-0.26561 -0.07244,-0.10142 -0.193172,-0.14488 -0.120732,-0.0483 -0.299416,-0.0483 -0.07244,0 -0.149708,0.01 -0.07727,0.01 -0.149709,0.0241 -0.06761,0.01 -0.125561,0.0242 -0.05312,0.0145 -0.07727,0.0241 v 2.08626 z"
-         transform="translate(-7.0833332e-7,1.0208333e-6)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path829"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
-         d="m 92.251146,110.90686 q 0,0.29942 -0.08693,0.54088 -0.08693,0.24147 -0.246294,0.41532 -0.154538,0.17386 -0.371856,0.27044 -0.217318,0.0918 -0.473271,0.0918 -0.255953,0 -0.473271,-0.0918 -0.217318,-0.0966 -0.376685,-0.27044 -0.154538,-0.17385 -0.241465,-0.41532 -0.08693,-0.24146 -0.08693,-0.54088 0,-0.29458 0.08693,-0.53605 0.08693,-0.24629 0.241465,-0.42015 0.159367,-0.17385 0.376685,-0.26561 0.217318,-0.0966 0.473271,-0.0966 0.255953,0 0.473271,0.0966 0.217318,0.0918 0.371856,0.26561 0.159367,0.17386 0.246294,0.42015 0.08693,0.24147 0.08693,0.53605 z m -0.468441,0 q 0,-0.42498 -0.193172,-0.67127 -0.188343,-0.25112 -0.516735,-0.25112 -0.328392,0 -0.521564,0.25112 -0.188342,0.24629 -0.188342,0.67127 0,0.42498 0.188342,0.6761 0.193172,0.2463 0.521564,0.2463 0.328392,0 0.516735,-0.2463 0.193172,-0.25112 0.193172,-0.6761 z"
-         transform="translate(-7.0833332e-7,1.0208333e-6)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path831"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
-         d="m 96.051789,112.16248 q -0.135221,-0.34771 -0.289758,-0.79201 -0.149708,-0.44912 -0.27527,-0.93205 -0.125562,0.48293 -0.27527,0.93205 -0.149708,0.4443 -0.284928,0.79201 H 94.53539 q -0.222148,-0.49742 -0.434637,-1.13489 -0.212489,-0.63746 -0.400831,-1.37634 h 0.482929 q 0.04829,0.22697 0.115903,0.49258 0.06761,0.26561 0.14005,0.53123 0.07727,0.26561 0.159367,0.5119 0.0821,0.2463 0.154537,0.42981 0.0821,-0.22698 0.159367,-0.4781 0.0821,-0.25595 0.154537,-0.51191 0.07244,-0.26078 0.135221,-0.50707 0.06761,-0.25113 0.115903,-0.46844 h 0.371856 q 0.04346,0.21731 0.106244,0.46844 0.06278,0.24629 0.13522,0.50707 0.07244,0.25596 0.149709,0.51191 0.0821,0.25112 0.164196,0.4781 0.07244,-0.18351 0.149708,-0.42981 0.0821,-0.24629 0.159367,-0.5119 0.07727,-0.26562 0.144878,-0.53123 0.06761,-0.26561 0.115904,-0.49258 h 0.463612 q -0.188343,0.73888 -0.400832,1.37634 -0.212489,0.63747 -0.434636,1.13489 z"
-         transform="translate(-7.0833332e-7,1.0208333e-6)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path833"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
-         d="m 97.611645,110.91169 q 0,-0.33322 0.09659,-0.57951 0.09659,-0.25113 0.255952,-0.41532 0.159367,-0.1642 0.367027,-0.2463 0.20766,-0.0821 0.424978,-0.0821 0.507076,0 0.777517,0.31874 0.27044,0.3139 0.27044,0.96103 0,0.029 0,0.0773 0,0.0435 -0.0048,0.0821 H 98.08012 q 0.02897,0.39118 0.226976,0.59401 0.198002,0.20283 0.61815,0.20283 0.236636,0 0.396003,-0.0386 0.164196,-0.0435 0.246294,-0.0821 l 0.06278,0.37668 q -0.0821,0.0435 -0.289758,0.0918 -0.202831,0.0483 -0.463613,0.0483 -0.328392,0 -0.569857,-0.0966 -0.236635,-0.10141 -0.391173,-0.27526 -0.154537,-0.17386 -0.231806,-0.4105 -0.07244,-0.24146 -0.07244,-0.52639 z m 1.724059,-0.24629 q 0.0048,-0.30425 -0.154538,-0.49742 -0.154537,-0.198 -0.429807,-0.198 -0.154538,0 -0.27527,0.0628 -0.115903,0.058 -0.198001,0.15454 -0.0821,0.0966 -0.130391,0.22214 -0.04346,0.12557 -0.05795,0.25596 z"
-         transform="translate(-7.0833332e-7,1.0208333e-6)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path835"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
-         d="m 103.83176,112.16248 q -0.0821,-0.21732 -0.15453,-0.42498 -0.0724,-0.21249 -0.14971,-0.42981 h -1.5164 l -0.30425,0.85479 h -0.48775 q 0.19317,-0.53122 0.36219,-0.98035 0.16903,-0.45395 0.32839,-0.85961 0.1642,-0.40566 0.32357,-0.77269 0.15936,-0.37186 0.33322,-0.73405 h 0.42981 q 0.17385,0.36219 0.33322,0.73405 0.15936,0.36703 0.31873,0.77269 0.1642,0.40566 0.33322,0.85961 0.16903,0.44913 0.3622,0.98035 z m -0.43946,-1.24113 q -0.15454,-0.42015 -0.30908,-0.81132 -0.1497,-0.396 -0.3139,-0.7582 -0.16903,0.3622 -0.32356,0.7582 -0.14971,0.39117 -0.29942,0.81132 z"
-         transform="translate(-7.0833332e-7,1.0208333e-6)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path837"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
-         d="m 105.69586,109.59812 q 0.058,0 0.1304,0.01 0.0773,0.005 0.1497,0.0193 0.0724,0.01 0.13039,0.0242 0.0628,0.01 0.0918,0.0193 l -0.0773,0.39118 q -0.0531,-0.0193 -0.17868,-0.0435 -0.12073,-0.029 -0.31391,-0.029 -0.12556,0 -0.25112,0.029 -0.12073,0.0242 -0.15937,0.0338 v 2.1104 h -0.44912 v -2.40499 q 0.15937,-0.058 0.396,-0.10624 0.23664,-0.0531 0.53122,-0.0531 z"
-         transform="translate(-7.0833332e-7,1.0208333e-6)" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path839"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.82929611px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.1207324"
-         d="m 106.49269,110.91169 q 0,-0.33322 0.0966,-0.57951 0.0966,-0.25113 0.25595,-0.41532 0.15937,-0.1642 0.36703,-0.2463 0.20766,-0.0821 0.42498,-0.0821 0.50707,0 0.77751,0.31874 0.27045,0.3139 0.27045,0.96103 0,0.029 0,0.0773 0,0.0435 -0.005,0.0821 h -1.71923 q 0.029,0.39118 0.22697,0.59401 0.198,0.20283 0.61815,0.20283 0.23664,0 0.39601,-0.0386 0.16419,-0.0435 0.24629,-0.0821 l 0.0628,0.37668 q -0.0821,0.0435 -0.28976,0.0918 -0.20283,0.0483 -0.46361,0.0483 -0.32839,0 -0.56986,-0.0966 -0.23663,-0.10141 -0.39117,-0.27526 -0.15454,-0.17386 -0.23181,-0.4105 -0.0724,-0.24146 -0.0724,-0.52639 z m 1.72406,-0.24629 q 0.005,-0.30425 -0.15453,-0.49742 -0.15454,-0.198 -0.42981,-0.198 -0.15454,0 -0.27527,0.0628 -0.1159,0.058 -0.198,0.15454 -0.0821,0.0966 -0.13039,0.22214 -0.0435,0.12557 -0.058,0.25596 z"
-         transform="translate(-7.0833332e-7,1.0208333e-6)" />
-      <rect
-         ry="0.21318768"
-         y="112.8361"
-         x="82.504837"
-         height="0.42637536"
-         width="26.435274"
-         id="rect1826"
-         style="opacity:1;vector-effect:none;fill:#ffe36c;fill-opacity:1;stroke:none;stroke-width:0.64459902;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.15679213, 1.28919803, 0.64459901, 1.28919803;stroke-dashoffset:35.90551376;stroke-opacity:0.99215686" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.25723717"
-       x="52.47879"
-       y="116.02338"
-       id="text861"><tspan
-         sodipodi:role="line"
-         x="52.47879"
-         y="116.02338"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.25723717"
-         id="tspan879">We’re a small team of marketing and </tspan></text>
-    <text
-       id="text909"
-       y="119.62472"
-       x="52.47879"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.25723717"
-       xml:space="preserve"><tspan
-         id="tspan907"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.25723717"
-         y="119.62472"
-         x="52.47879"
-         sodipodi:role="line">technology experts. Over the past decade, </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.25723717"
-       x="52.47879"
-       y="123.22604"
-       id="text913"><tspan
-         sodipodi:role="line"
-         x="52.47879"
-         y="123.22604"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.25723717"
-         id="tspan911">these two critical areas of business have  </tspan></text>
-    <text
-       id="text917"
-       y="126.82735"
-       x="52.47879"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.25723717"
-       xml:space="preserve"><tspan
-         id="tspan915"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.25723717"
-         y="126.82735"
-         x="52.47879"
-         sodipodi:role="line">become integrative and mutually beneficial. </tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.25723717"
-       x="52.47879"
-       y="130.42868"
-       id="text921"><tspan
-         sodipodi:role="line"
-         x="52.47879"
-         y="130.42868"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.25723717"
-         id="tspan923">They are often more than the sum of their</tspan></text>
-    <text
-       id="text935"
-       y="137.6313"
-       x="52.47879"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.25723717"
-       xml:space="preserve"><tspan
-         id="tspan933"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.25723717"
-         y="137.6313"
-         x="52.47879"
-         sodipodi:role="line">beyond for your customers and delighting.</tspan></text>
-    <text
-       id="text943"
-       y="134.03003"
-       x="52.47879"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.25723717"
-       xml:space="preserve"><tspan
-         id="tspan941"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.25723717"
-         y="134.03003"
-         x="52.47879"
-         sodipodi:role="line">parts when it comes to going above and</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.25723717"
-       x="52.47879"
-       y="141.23265"
-       id="text947"><tspan
-         sodipodi:role="line"
-         x="52.47879"
-         y="141.23265"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.76388884px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:justify;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;fill-opacity:1;stroke-width:0.25723717"
-         id="tspan945">your company stakeholders.</tspan></text>
-    <g
        id="g5701"
        class="cls-2"
-       transform="matrix(0.02026682,0,0,0.02026682,103.84563,115.04505)"
+       transform="matrix(0.02026682,0,0,0.02026682,45.480879,88.827799)"
        style="isolation:isolate">
       <g
          data-name="Layer 2"
@@ -382,19 +206,19 @@
              d="m 938.4,234.25 c 5.14,-4.1 6.44,-12 6.23,-18.26 -0.5,-15.17 -8.77,-29.88 -19.45,-40.48 a 34.2,34.2 0 0 0 -17.53,-9.67 c -3.61,-0.67 -7.39,-0.67 -10.62,1.21 l 35.38,-20.38 a 10.4,10.4 0 0 1 1.05,-0.54 3.92,3.92 0 0 1 0.36,-0.16 c 3.91,-1.7 8.54,-1.33 12.51,0 a 37,37 0 0 1 11.13,6.15 c 0.1,0.08 0.2,0.17 0.3,0.24 l 0.56,0.47 c 12,9.95 20.68,25.61 21.82,41.27 0.55,7.49 -0.87,16.79 -8,20.93 l -35.38,20.38 c 0.28,-0.16 0.56,-0.34 0.83,-0.53 l 0.24,-0.17 c 0.17,-0.16 0.38,-0.31 0.57,-0.46 z"
              class="cls-7"
              inkscape:connector-curvature="0"
-             style="fill:#f47a80" />
+             style="fill:#f4e37a;fill-opacity:1" />
           <path
              id="path4171"
              d="m 944.63,216 a 35.11,35.11 0 0 1 -0.45,7 l 35.62,-20.55 a 35.83,35.83 0 0 0 0.34,-8.36 53.74,53.74 0 0 0 -2.44,-12.39 l -35.57,20.58 a 49.26,49.26 0 0 1 2.5,13.72 z"
              class="cls-8"
              inkscape:connector-curvature="0"
-             style="fill:#ed5f61" />
+             style="fill:#edd65f;fill-opacity:1" />
           <path
              id="path4173"
              d="m 917,169 c 15.49,8.94 28,30.61 27.95,48.41 -0.05,17.8 -12.65,25 -28.13,16 -15.48,-9 -28,-30.62 -27.95,-48.41 0.05,-17.79 12.63,-24.94 28.13,-16 z"
              class="cls-8"
              inkscape:connector-curvature="0"
-             style="fill:#ed5f61" />
+             style="fill:#edd65f;fill-opacity:1" />
           <path
              id="path4175"
              d="m 939.87,218 c 0,-16.41 -11.5,-36.4 -25.78,-44.65 -7,-4 -13.37,-4.5 -18.05,-2 v 0 c 0,0 -57.13,28.83 -165.14,25.72 l 70.68,107.76 22.23,51.68 c 0,0 58.78,-87.3 108.7,-122 a 13.89,13.89 0 0 0 1.34,-0.93 v 0 0 c 3.75,-3.04 6,-8.35 6.02,-15.58 z"
@@ -406,25 +230,25 @@
              d="m 810.16,368.12 c 12.43,-9.91 15.56,-29 15.06,-44.12 -1.21,-36.65 -21.18,-72.2 -47,-97.8 -11.5,-11.41 -26.12,-20.36 -42.36,-23.38 -8.73,-1.62 -17.85,-1.61 -25.65,2.93 l 13.13,-7.58 c 0.82,-0.48 1.66,-0.91 2.52,-1.32 0.28,-0.13 0.58,-0.24 0.87,-0.37 9.46,-4.1 20.65,-3.2 30.24,-0.06 a 89.44,89.44 0 0 1 26.88,14.88 l 0.71,0.58 1.44,1.12 c 29.08,24.05 49.95,61.88 52.7,99.71 1.32,18.09 -2.1,40.57 -19.35,50.58 l -13.13,7.58 c 0.69,-0.4 1.36,-0.83 2,-1.28 l 0.58,-0.42 c 0.44,-0.34 0.9,-0.69 1.36,-1.05 z"
              class="cls-7"
              inkscape:connector-curvature="0"
-             style="fill:#f47a80" />
+             style="fill:#f4d97a;fill-opacity:1" />
           <path
              id="path4179"
              d="m 758.42,210.47 c 37.41,21.6 67.64,74 67.51,117 -0.13,43 -30.54,60.28 -67.93,38.68 -37.39,-21.6 -67.65,-74 -67.52,-116.95 0.13,-42.95 30.52,-60.33 67.94,-38.73 z"
              class="cls-9"
              inkscape:connector-curvature="0"
-             style="fill:#bf434c" />
+             style="fill:#bfb243;fill-opacity:1" />
           <path
              id="path4181"
              d="m 825.93,327.42 c 0.05,-14.59 -3.42,-30.27 -9.46,-45.45 A 808.93,808.93 0 0 0 738.6,351.7 109.88,109.88 0 0 0 758,366.15 c 37.39,21.6 67.81,4.26 67.93,-38.73 z"
              class="cls-10"
              inkscape:connector-curvature="0"
-             style="fill:#aa3947" />
+             style="fill:#aa9b39;fill-opacity:1" />
           <path
              id="path4183"
              d="m 758.42,210.47 c -10.92,-6.3 -21.25,-9.29 -30.4,-9.29 -22.19,0 -37.48,17.58 -37.56,48 -0.13,43 30.1,95.35 67.52,117 10.92,6.3 21.24,9.29 30.39,9.29 22.19,0 37.48,-17.58 37.56,-48 0.13,-43.04 -30.1,-95.4 -67.51,-117 z m 30,156.08 c -7.8,0 -16.77,-2.8 -26,-8.1 -16.76,-9.68 -32.6,-26.44 -44.58,-47.2 -11.98,-20.76 -18.55,-42.78 -18.49,-62 0.07,-24.51 10.79,-39.15 28.67,-39.15 v 0 c 7.79,0 16.76,2.8 25.94,8.1 16.77,9.68 32.6,26.44 44.58,47.2 11.98,20.76 18.55,42.78 18.49,62 -0.03,24.51 -10.77,39.15 -28.66,39.15 z"
              class="cls-8"
              inkscape:connector-curvature="0"
-             style="fill:#ed5f61" />
+             style="fill:#edcd5f;fill-opacity:1" />
           <path
              id="path4185"
              d="m 1645.53,215.35 3.81,-2.19 v 0 a 3.85,3.85 0 0 1 4,-0.07 l 116.17,67 a 8.33,8.33 0 0 1 4.17,7.21 V 365 a 2.59,2.59 0 0 1 -1.39,2.3 v 0 l -3.83,2.21 -0.56,-1.48 1,-1 -118.9,-68.57 a 5.6,5.6 0 0 1 -2.79,-4.85 v -77 a 0.92,0.92 0 0 1 0,-0.16 z"
@@ -442,10 +266,10 @@
              d="m 1649.48,215.32 116.17,67 a 8.32,8.32 0 0 1 4.17,7.21 v 77.65 a 2.61,2.61 0 0 1 -3.91,2.26 l -119.47,-68.91 a 5.59,5.59 0 0 1 -2.79,-4.84 v -77 a 3.88,3.88 0 0 1 5.83,-3.37 z"
              class="cls-12"
              inkscape:connector-curvature="0"
-             style="fill:#f9cb69" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon4191"
-             points="1768.65,288.23 1699.83,294.34 1645.08,218.05 1645.86,215.79 1647.59,215.79 1701.35,286.26 1767.68,285.49 "
+             points="1701.35,286.26 1767.68,285.49 1768.65,288.23 1699.83,294.34 1645.08,218.05 1645.86,215.79 1647.59,215.79 "
              class="cls-13"
              style="fill:#f5a967" />
           <path
@@ -471,10 +295,10 @@
              d="m 1576.77,113.87 116.17,67 a 8.34,8.34 0 0 1 4.16,7.21 v 77.65 a 2.6,2.6 0 0 1 -3.9,2.26 l -119.47,-68.91 a 5.59,5.59 0 0 1 -2.8,-4.84 v -77 a 3.89,3.89 0 0 1 5.84,-3.37 z"
              class="cls-12"
              inkscape:connector-curvature="0"
-             style="fill:#f9cb69" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon4201"
-             points="1695.93,186.78 1627.11,192.89 1572.36,116.6 1573.14,114.35 1574.87,114.35 1628.63,184.81 1694.97,184.04 "
+             points="1628.63,184.81 1694.97,184.04 1695.93,186.78 1627.11,192.89 1572.36,116.6 1573.14,114.35 1574.87,114.35 "
              class="cls-13"
              style="fill:#f5a967" />
           <path
@@ -488,7 +312,7 @@
              d="m 905.61,501 v 28.75 a 12.55,12.55 0 0 1 -18.83,10.87 l -74.24,-42.86 a 23.06,23.06 0 0 1 -11.54,-20 v -39 a 7,7 0 0 1 10.45,-6 l 82.16,47.43 a 24,24 0 0 1 12,20.81 z"
              class="cls-15"
              inkscape:connector-curvature="0"
-             style="fill:url(#linearGradient6497)" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path4207"
              d="m 825.72,466 c -4.09,-2.36 -7.42,-0.47 -7.43,4.23 a 16.27,16.27 0 0 0 7.38,12.77 c 4.1,2.37 7.42,0.47 7.44,-4.23 A 16.29,16.29 0 0 0 825.72,466 Z"
@@ -521,12 +345,12 @@
              style="fill:#c9dafc" />
           <polygon
              id="polygon4217"
-             points="826.92,912.63 809.59,902.61 809.59,877.21 826.92,877.21 "
+             points="809.59,902.61 809.59,877.21 826.92,877.21 826.92,912.63 "
              class="cls-4"
              style="fill:#b8bcfc" />
           <polygon
              id="polygon4219"
-             points="801,897.64 783.66,887.62 783.66,862.22 801,862.22 "
+             points="783.66,887.62 783.66,862.22 801,862.22 801,897.64 "
              class="cls-4"
              style="fill:#b8bcfc" />
           <path
@@ -576,12 +400,12 @@
              d="M 1004.44,334.12 1378,549.58 a 26.75,26.75 0 0 1 13.39,23.17 v 301.92 a 8.37,8.37 0 0 1 -12.56,7.25 L 994.68,660.35 a 18,18 0 0 1 -9,-15.57 V 345 a 12.51,12.51 0 0 1 18.76,-10.88 z"
              class="cls-18"
              inkscape:connector-curvature="0"
-             style="fill:#314467" />
+             style="fill:#e8ecf5;fill-opacity:1" />
           <polygon
              id="polygon4237"
-             points="993.71,355.86 993.71,631.27 1383.36,856.02 1383.36,580.61 "
+             points="993.71,631.27 1383.36,856.02 1383.36,580.61 993.71,355.86 "
              class="cls-19"
-             style="fill:url(#linear-gradient-2)" />
+             style="fill:#2f2f2f;fill-opacity:1" />
           <path
              id="path4239"
              d="m 1176.94,441.92 c -2.81,-1.63 -5.11,-0.32 -5.12,2.92 a 11.19,11.19 0 0 0 5.09,8.8 c 2.81,1.63 5.11,0.32 5.12,-2.91 a 11.21,11.21 0 0 0 -5.09,-8.81 z"
@@ -1529,46 +1353,46 @@
              d="m 744.45,825.05 15,-8.69 a 4,4 0 0 1 4,0 l 48.15,27.75 a 1.68,1.68 0 0 1 0,2.91 l -15,8.64 a 5.41,5.41 0 0 1 -5.42,0 l -46.81,-27 a 2.1,2.1 0 0 1 0.08,-3.61 z"
              class="cls-20"
              inkscape:connector-curvature="0"
-             style="fill:url(#linear-gradient-3)" />
+             style="fill:#dcc55b;fill-opacity:1" />
           <path
              id="path4555"
              d="m 769.8,810.46 15.05,-8.68 a 4,4 0 0 1 4,0 l 19.9,11.44 a 1.68,1.68 0 0 1 0,2.91 l -15,8.64 a 5.41,5.41 0 0 1 -5.42,0 L 769.8,814.1 a 2.1,2.1 0 0 1 0,-3.64 z"
              class="cls-21"
              inkscape:connector-curvature="0"
-             style="fill:url(#linear-gradient-4)" />
+             style="fill:#dcc55b;fill-opacity:1" />
           <polygon
              id="polygon4557"
-             points="777.78,844.41 792.41,835.98 808.8,845.43 794.16,853.88 "
+             points="792.41,835.98 808.8,845.43 794.16,853.88 777.78,844.41 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon4559"
-             points="1356.31,935.38 1356.31,928.91 1371.45,920.15 1371.45,926.65 "
+             points="1356.31,928.91 1371.45,920.15 1371.45,926.65 1356.31,935.38 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon4561"
-             points="1356.31,932.78 1369.2,925.35 1369.2,921.45 1371.45,920.15 1371.45,926.65 1356.31,935.38 "
+             points="1356.31,935.38 1356.31,932.78 1369.2,925.35 1369.2,921.45 1371.45,920.15 1371.45,926.65 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon4563"
-             points="1337.51,946.26 1337.51,939.79 1352.65,931.03 1352.65,937.53 "
+             points="1337.51,939.79 1352.65,931.03 1352.65,937.53 1337.51,946.26 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon4565"
-             points="1337.51,943.66 1350.4,936.23 1350.4,932.33 1352.65,931.03 1352.65,937.53 1337.51,946.26 "
+             points="1337.51,946.26 1337.51,943.66 1350.4,936.23 1350.4,932.33 1352.65,931.03 1352.65,937.53 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon4567"
-             points="1142.51,1059.05 1142.51,1052.57 1157.65,1043.82 1157.65,1050.31 "
+             points="1142.51,1052.57 1157.65,1043.82 1157.65,1050.31 1142.51,1059.05 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon4569"
-             points="1142.51,1056.45 1155.41,1049.01 1155.41,1045.12 1157.65,1043.82 1157.65,1050.31 1142.51,1059.05 "
+             points="1142.51,1059.05 1142.51,1056.45 1155.41,1049.01 1155.41,1045.12 1157.65,1043.82 1157.65,1050.31 "
              class="cls-6"
              style="fill:#ffffff" />
           <g
@@ -1577,42 +1401,42 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4571"
-               points="1313.29,732.76 1313.29,730.36 1291.85,717.95 1291.85,720.35 "
+               points="1313.29,730.36 1291.85,717.95 1291.85,720.35 1313.29,732.76 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4573"
-               points="1315.95,731.9 1315.95,734.3 1368.67,764.83 1368.67,762.43 "
+               points="1315.95,734.3 1368.67,764.83 1368.67,762.43 1315.95,731.9 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4575"
-               points="1291.85,722.61 1291.85,725.02 1334.86,749.92 1334.86,747.52 "
+               points="1291.85,725.02 1334.86,749.92 1334.86,747.52 1291.85,722.61 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4577"
-               points="1334.86,735.81 1334.86,733.4 1291.85,708.5 1291.85,710.9 "
+               points="1334.86,733.4 1291.85,708.5 1291.85,710.9 1334.86,735.81 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4579"
-               points="1313.29,718.65 1313.29,716.25 1291.85,703.83 1291.85,706.24 "
+               points="1313.29,716.25 1291.85,703.83 1291.85,706.24 1313.29,718.65 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4581"
-               points="1368.67,748.32 1315.95,717.79 1315.95,720.19 1368.67,750.72 "
+               points="1315.95,717.79 1315.95,720.19 1368.67,750.72 1368.67,748.32 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4583"
-               points="1291.85,713.17 1291.85,715.57 1368.67,760.05 1368.67,757.65 "
+               points="1291.85,715.57 1368.67,760.05 1368.67,757.65 1291.85,713.17 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4585"
-               points="1337.52,734.95 1337.52,737.35 1368.67,755.39 1368.67,752.98 "
+               points="1337.52,737.35 1368.67,755.39 1368.67,752.98 1337.52,734.95 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1622,42 +1446,42 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4589"
-               points="1313.29,764.2 1313.29,761.79 1291.85,749.38 1291.85,751.78 "
+               points="1313.29,761.79 1291.85,749.38 1291.85,751.78 1313.29,764.2 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4591"
-               points="1315.95,763.33 1315.95,765.74 1368.67,796.27 1368.67,793.86 "
+               points="1315.95,765.74 1368.67,796.27 1368.67,793.86 1315.95,763.33 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4593"
-               points="1291.85,754.04 1291.85,756.45 1334.86,781.36 1334.86,778.95 "
+               points="1291.85,756.45 1334.86,781.36 1334.86,778.95 1291.85,754.04 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4595"
-               points="1334.86,767.25 1334.86,764.84 1291.85,739.93 1291.85,742.34 "
+               points="1334.86,764.84 1291.85,739.93 1291.85,742.34 1334.86,767.25 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4597"
-               points="1313.29,750.09 1313.29,747.68 1291.85,735.27 1291.85,737.67 "
+               points="1313.29,747.68 1291.85,735.27 1291.85,737.67 1313.29,750.09 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4599"
-               points="1368.67,779.75 1315.95,749.22 1315.95,751.63 1368.67,782.15 "
+               points="1315.95,749.22 1315.95,751.63 1368.67,782.15 1368.67,779.75 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4601"
-               points="1291.85,744.6 1291.85,747 1368.67,791.49 1368.67,789.08 "
+               points="1291.85,747 1368.67,791.49 1368.67,789.08 1291.85,744.6 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4603"
-               points="1337.52,766.38 1337.52,768.78 1368.67,786.82 1368.67,784.41 "
+               points="1337.52,768.78 1368.67,786.82 1368.67,784.41 1337.52,766.38 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1667,42 +1491,42 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4607"
-               points="1313.29,795.63 1313.29,793.23 1291.85,780.81 1291.85,783.22 "
+               points="1313.29,793.23 1291.85,780.81 1291.85,783.22 1313.29,795.63 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4609"
-               points="1315.95,794.77 1315.95,797.17 1368.67,827.7 1368.67,825.29 "
+               points="1315.95,797.17 1368.67,827.7 1368.67,825.29 1315.95,794.77 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4611"
-               points="1291.85,785.48 1291.85,787.88 1334.86,812.79 1334.86,810.38 "
+               points="1291.85,787.88 1334.86,812.79 1334.86,810.38 1291.85,785.48 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4613"
-               points="1334.86,798.68 1334.86,796.27 1291.85,771.37 1291.85,773.77 "
+               points="1334.86,796.27 1291.85,771.37 1291.85,773.77 1334.86,798.68 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4615"
-               points="1313.29,781.52 1313.29,779.11 1291.85,766.7 1291.85,769.11 "
+               points="1313.29,779.11 1291.85,766.7 1291.85,769.11 1313.29,781.52 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4617"
-               points="1368.67,811.18 1315.95,780.65 1315.95,783.06 1368.67,813.59 "
+               points="1315.95,780.65 1315.95,783.06 1368.67,813.59 1368.67,811.18 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4619"
-               points="1291.85,776.03 1291.85,778.44 1368.67,822.92 1368.67,820.51 "
+               points="1291.85,778.44 1368.67,822.92 1368.67,820.51 1291.85,776.03 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4621"
-               points="1337.52,797.81 1337.52,800.22 1368.67,818.25 1368.67,815.85 "
+               points="1337.52,800.22 1368.67,818.25 1368.67,815.85 1337.52,797.81 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1719,17 +1543,17 @@
           </g>
           <polygon
              id="polygon4629"
-             points="1247.38,533.19 1368.67,603.43 1368.67,606.97 1247.38,536.74 "
+             points="1368.67,603.43 1368.67,606.97 1247.38,536.74 1247.38,533.19 "
              class="cls-24"
              style="mix-blend-mode:overlay;fill:#ffffff" />
           <polygon
              id="polygon4631"
-             points="1247.38,567.8 1368.67,638.03 1368.67,641.58 1247.38,571.34 "
+             points="1368.67,638.03 1368.67,641.58 1247.38,571.34 1247.38,567.8 "
              class="cls-24"
              style="mix-blend-mode:overlay;fill:#ffffff" />
           <polygon
              id="polygon4633"
-             points="1247.38,609.33 1368.67,679.56 1368.67,683.1 1247.38,612.87 "
+             points="1368.67,679.56 1368.67,683.1 1247.38,612.87 1247.38,609.33 "
              class="cls-24"
              style="mix-blend-mode:overlay;fill:#ffffff" />
           <g
@@ -1738,12 +1562,12 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4635"
-               points="1335.69,657.08 1335.69,653.54 1247.38,602.4 1247.38,605.95 "
+               points="1335.69,653.54 1247.38,602.4 1247.38,605.95 1335.69,657.08 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4637"
-               points="1368.67,672.64 1339.18,655.57 1339.18,659.11 1368.67,676.18 "
+               points="1339.18,655.57 1339.18,659.11 1368.67,676.18 1368.67,672.64 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1753,12 +1577,12 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4641"
-               points="1288.04,622.57 1288.04,619.03 1247.38,595.48 1247.38,599.02 "
+               points="1288.04,619.03 1247.38,595.48 1247.38,599.02 1288.04,622.57 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4643"
-               points="1368.67,665.72 1291.54,621.05 1291.54,624.59 1368.67,669.26 "
+               points="1291.54,621.05 1291.54,624.59 1368.67,669.26 1368.67,665.72 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1768,12 +1592,12 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4647"
-               points="1288.04,615.65 1288.04,612.11 1247.38,588.56 1247.38,592.1 "
+               points="1288.04,612.11 1247.38,588.56 1247.38,592.1 1288.04,615.65 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4649"
-               points="1368.67,658.8 1291.54,614.13 1291.54,617.67 1368.67,662.34 "
+               points="1291.54,614.13 1291.54,617.67 1368.67,662.34 1368.67,658.8 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1783,12 +1607,12 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4653"
-               points="1301.5,616.52 1301.5,612.98 1247.38,581.64 1247.38,585.18 "
+               points="1301.5,612.98 1247.38,581.64 1247.38,585.18 1301.5,616.52 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4655"
-               points="1368.67,651.88 1305,615.01 1305,618.55 1368.67,655.42 "
+               points="1305,615.01 1305,618.55 1368.67,655.42 1368.67,651.88 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1798,18 +1622,18 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4659"
-               points="1288.04,601.8 1288.04,598.26 1247.38,574.72 1247.38,578.26 "
+               points="1288.04,598.26 1247.38,574.72 1247.38,578.26 1288.04,601.8 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4661"
-               points="1368.67,644.96 1291.54,600.29 1291.54,603.83 1368.67,648.5 "
+               points="1291.54,600.29 1291.54,603.83 1368.67,648.5 1368.67,644.96 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
           <polygon
              id="polygon4665"
-             points="1301.5,595.76 1301.5,592.22 1247.38,560.88 1247.38,564.42 "
+             points="1301.5,592.22 1247.38,560.88 1247.38,564.42 1301.5,595.76 "
              class="cls-24"
              style="mix-blend-mode:overlay;fill:#ffffff" />
           <g
@@ -1818,23 +1642,23 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4667"
-               points="1270.25,570.74 1270.25,567.2 1247.38,553.96 1247.38,557.5 "
+               points="1270.25,567.2 1247.38,553.96 1247.38,557.5 1270.25,570.74 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4669"
-               points="1368.67,624.19 1273.74,569.22 1273.74,572.76 1368.67,627.73 "
+               points="1273.74,569.22 1273.74,572.76 1368.67,627.73 1368.67,624.19 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
           <polygon
              id="polygon4673"
-             points="1335.69,601.71 1335.69,598.17 1247.38,547.04 1247.38,550.58 "
+             points="1335.69,598.17 1247.38,547.04 1247.38,550.58 1335.69,601.71 "
              class="cls-24"
              style="mix-blend-mode:overlay;fill:#ffffff" />
           <polygon
              id="polygon4675"
-             points="1368.67,617.27 1339.18,600.2 1339.18,603.74 1368.67,620.81 "
+             points="1339.18,600.2 1339.18,603.74 1368.67,620.81 1368.67,617.27 "
              class="cls-24"
              style="mix-blend-mode:overlay;fill:#ffffff" />
           <g
@@ -1843,12 +1667,12 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4677"
-               points="1368.67,610.35 1296.61,568.62 1296.61,572.16 1368.67,613.89 "
+               points="1296.61,568.62 1296.61,572.16 1368.67,613.89 1368.67,610.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4679"
-               points="1293.11,570.14 1293.11,566.6 1247.38,540.12 1247.38,543.66 "
+               points="1293.11,566.6 1247.38,540.12 1247.38,543.66 1293.11,570.14 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1858,12 +1682,12 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4683"
-               points="1320.57,572.19 1320.57,568.65 1247.38,526.27 1247.38,529.81 "
+               points="1320.57,568.65 1247.38,526.27 1247.38,529.81 1320.57,572.19 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4685"
-               points="1368.67,596.51 1324.06,570.68 1324.06,574.22 1368.67,600.05 "
+               points="1324.06,570.68 1324.06,574.22 1368.67,600.05 1368.67,596.51 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1873,12 +1697,12 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4689"
-               points="1280.95,542.33 1280.95,538.79 1247.38,519.35 1247.38,522.89 "
+               points="1280.95,538.79 1247.38,519.35 1247.38,522.89 1280.95,542.33 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4691"
-               points="1368.67,589.59 1284.44,540.81 1284.44,544.35 1368.67,593.13 "
+               points="1284.44,540.81 1284.44,544.35 1368.67,593.13 1368.67,589.59 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1888,12 +1712,12 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4695"
-               points="1368.67,631.11 1339.18,614.04 1339.18,617.58 1368.67,634.65 "
+               points="1339.18,614.04 1339.18,617.58 1368.67,634.65 1368.67,631.11 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4697"
-               points="1335.69,615.56 1335.69,612.01 1305,594.24 1305,597.78 "
+               points="1335.69,612.01 1305,594.24 1305,597.78 1335.69,615.56 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -1903,1122 +1727,1122 @@
              style="mix-blend-mode:overlay">
             <polygon
                id="polygon4701"
-               points="1247.38,759.17 1247.38,762.42 1250.14,764.02 1250.14,760.76 "
+               points="1247.38,762.42 1250.14,764.02 1250.14,760.76 1247.38,759.17 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4703"
-               points="1251.15,761.35 1251.15,764.61 1253.91,766.2 1253.91,762.95 "
+               points="1251.15,764.61 1253.91,766.2 1253.91,762.95 1251.15,761.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4705"
-               points="1254.92,763.54 1254.92,766.79 1257.68,768.38 1257.68,765.13 "
+               points="1254.92,766.79 1257.68,768.38 1257.68,765.13 1254.92,763.54 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4707"
-               points="1258.69,765.72 1258.69,768.97 1261.45,770.57 1261.45,767.31 "
+               points="1258.69,768.97 1261.45,770.57 1261.45,767.31 1258.69,765.72 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4709"
-               points="1262.47,767.9 1262.47,771.16 1265.22,772.75 1265.22,769.5 "
+               points="1262.47,771.16 1265.22,772.75 1265.22,769.5 1262.47,767.9 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4711"
-               points="1266.24,770.09 1266.24,773.34 1268.99,774.93 1268.99,771.68 "
+               points="1266.24,773.34 1268.99,774.93 1268.99,771.68 1266.24,770.09 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4713"
-               points="1270.01,772.27 1270.01,775.52 1272.76,777.12 1272.76,773.86 "
+               points="1270.01,775.52 1272.76,777.12 1272.76,773.86 1270.01,772.27 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4715"
-               points="1273.78,774.45 1273.78,777.7 1276.53,779.3 1276.53,776.04 "
+               points="1273.78,777.7 1276.53,779.3 1276.53,776.04 1273.78,774.45 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4717"
-               points="1277.55,776.63 1277.55,779.89 1280.3,781.48 1280.3,778.23 "
+               points="1277.55,779.89 1280.3,781.48 1280.3,778.23 1277.55,776.63 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4719"
-               points="1281.32,778.82 1281.32,782.07 1284.08,783.66 1284.08,780.41 "
+               points="1281.32,782.07 1284.08,783.66 1284.08,780.41 1281.32,778.82 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4721"
-               points="1247.38,754.81 1247.38,758.06 1250.14,759.65 1250.14,756.4 "
+               points="1247.38,758.06 1250.14,759.65 1250.14,756.4 1247.38,754.81 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4723"
-               points="1251.15,756.99 1251.15,760.24 1253.91,761.84 1253.91,758.58 "
+               points="1251.15,760.24 1253.91,761.84 1253.91,758.58 1251.15,756.99 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4725"
-               points="1254.92,759.17 1254.92,762.42 1257.68,764.02 1257.68,760.76 "
+               points="1254.92,762.42 1257.68,764.02 1257.68,760.76 1254.92,759.17 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4727"
-               points="1258.69,761.35 1258.69,764.61 1261.45,766.2 1261.45,762.95 "
+               points="1258.69,764.61 1261.45,766.2 1261.45,762.95 1258.69,761.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4729"
-               points="1262.47,763.54 1262.47,766.79 1265.22,768.38 1265.22,765.13 "
+               points="1262.47,766.79 1265.22,768.38 1265.22,765.13 1262.47,763.54 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4731"
-               points="1266.24,765.72 1266.24,768.97 1268.99,770.57 1268.99,767.31 "
+               points="1266.24,768.97 1268.99,770.57 1268.99,767.31 1266.24,765.72 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4733"
-               points="1270.01,767.9 1270.01,771.16 1272.76,772.75 1272.76,769.5 "
+               points="1270.01,771.16 1272.76,772.75 1272.76,769.5 1270.01,767.9 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4735"
-               points="1273.78,770.09 1273.78,773.34 1276.53,774.93 1276.53,771.68 "
+               points="1273.78,773.34 1276.53,774.93 1276.53,771.68 1273.78,770.09 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4737"
-               points="1277.55,772.27 1277.55,775.52 1280.3,777.12 1280.3,773.86 "
+               points="1277.55,775.52 1280.3,777.12 1280.3,773.86 1277.55,772.27 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4739"
-               points="1281.32,774.45 1281.32,777.7 1284.08,779.3 1284.08,776.04 "
+               points="1281.32,777.7 1284.08,779.3 1284.08,776.04 1281.32,774.45 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4741"
-               points="1247.38,750.44 1247.38,753.7 1250.14,755.29 1250.14,752.03 "
+               points="1247.38,753.7 1250.14,755.29 1250.14,752.03 1247.38,750.44 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4743"
-               points="1251.15,752.62 1251.15,755.88 1253.91,757.47 1253.91,754.22 "
+               points="1251.15,755.88 1253.91,757.47 1253.91,754.22 1251.15,752.62 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4745"
-               points="1254.92,754.81 1254.92,758.06 1257.68,759.65 1257.68,756.4 "
+               points="1254.92,758.06 1257.68,759.65 1257.68,756.4 1254.92,754.81 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4747"
-               points="1258.69,756.99 1258.69,760.24 1261.45,761.84 1261.45,758.58 "
+               points="1258.69,760.24 1261.45,761.84 1261.45,758.58 1258.69,756.99 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4749"
-               points="1262.47,759.17 1262.47,762.42 1265.22,764.02 1265.22,760.76 "
+               points="1262.47,762.42 1265.22,764.02 1265.22,760.76 1262.47,759.17 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4751"
-               points="1266.24,761.35 1266.24,764.61 1268.99,766.2 1268.99,762.95 "
+               points="1266.24,764.61 1268.99,766.2 1268.99,762.95 1266.24,761.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4753"
-               points="1270.01,763.54 1270.01,766.79 1272.76,768.38 1272.76,765.13 "
+               points="1270.01,766.79 1272.76,768.38 1272.76,765.13 1270.01,763.54 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4755"
-               points="1273.78,765.72 1273.78,768.97 1276.53,770.57 1276.53,767.31 "
+               points="1273.78,768.97 1276.53,770.57 1276.53,767.31 1273.78,765.72 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4757"
-               points="1277.55,767.9 1277.55,771.16 1280.3,772.75 1280.3,769.5 "
+               points="1277.55,771.16 1280.3,772.75 1280.3,769.5 1277.55,767.9 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4759"
-               points="1281.32,770.09 1281.32,773.34 1284.08,774.93 1284.08,771.68 "
+               points="1281.32,773.34 1284.08,774.93 1284.08,771.68 1281.32,770.09 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4761"
-               points="1247.38,746.08 1247.38,749.33 1250.14,750.92 1250.14,747.67 "
+               points="1247.38,749.33 1250.14,750.92 1250.14,747.67 1247.38,746.08 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4763"
-               points="1251.15,748.26 1251.15,751.51 1253.91,753.11 1253.91,749.85 "
+               points="1251.15,751.51 1253.91,753.11 1253.91,749.85 1251.15,748.26 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4765"
-               points="1254.92,750.44 1254.92,753.7 1257.68,755.29 1257.68,752.03 "
+               points="1254.92,753.7 1257.68,755.29 1257.68,752.03 1254.92,750.44 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4767"
-               points="1258.69,752.62 1258.69,755.88 1261.45,757.47 1261.45,754.22 "
+               points="1258.69,755.88 1261.45,757.47 1261.45,754.22 1258.69,752.62 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4769"
-               points="1262.47,754.81 1262.47,758.06 1265.22,759.65 1265.22,756.4 "
+               points="1262.47,758.06 1265.22,759.65 1265.22,756.4 1262.47,754.81 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4771"
-               points="1266.24,756.99 1266.24,760.24 1268.99,761.84 1268.99,758.58 "
+               points="1266.24,760.24 1268.99,761.84 1268.99,758.58 1266.24,756.99 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4773"
-               points="1270.01,759.17 1270.01,762.42 1272.76,764.02 1272.76,760.76 "
+               points="1270.01,762.42 1272.76,764.02 1272.76,760.76 1270.01,759.17 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4775"
-               points="1273.78,761.35 1273.78,764.61 1276.53,766.2 1276.53,762.95 "
+               points="1273.78,764.61 1276.53,766.2 1276.53,762.95 1273.78,761.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4777"
-               points="1277.55,763.54 1277.55,766.79 1280.3,768.38 1280.3,765.13 "
+               points="1277.55,766.79 1280.3,768.38 1280.3,765.13 1277.55,763.54 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4779"
-               points="1281.32,765.72 1281.32,768.97 1284.08,770.57 1284.08,767.31 "
+               points="1281.32,768.97 1284.08,770.57 1284.08,767.31 1281.32,765.72 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4781"
-               points="1247.38,741.71 1247.38,744.96 1250.14,746.56 1250.14,743.3 "
+               points="1247.38,744.96 1250.14,746.56 1250.14,743.3 1247.38,741.71 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4783"
-               points="1254.92,746.08 1254.92,749.33 1257.68,750.92 1257.68,747.67 "
+               points="1254.92,749.33 1257.68,750.92 1257.68,747.67 1254.92,746.08 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4785"
-               points="1258.69,748.26 1258.69,751.51 1261.45,753.11 1261.45,749.85 "
+               points="1258.69,751.51 1261.45,753.11 1261.45,749.85 1258.69,748.26 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4787"
-               points="1262.47,750.44 1262.47,753.7 1265.22,755.29 1265.22,752.03 "
+               points="1262.47,753.7 1265.22,755.29 1265.22,752.03 1262.47,750.44 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4789"
-               points="1266.24,752.62 1266.24,755.88 1268.99,757.47 1268.99,754.22 "
+               points="1266.24,755.88 1268.99,757.47 1268.99,754.22 1266.24,752.62 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4791"
-               points="1270.01,754.81 1270.01,758.06 1272.76,759.65 1272.76,756.4 "
+               points="1270.01,758.06 1272.76,759.65 1272.76,756.4 1270.01,754.81 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4793"
-               points="1273.78,756.99 1273.78,760.24 1276.53,761.84 1276.53,758.58 "
+               points="1273.78,760.24 1276.53,761.84 1276.53,758.58 1273.78,756.99 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4795"
-               points="1277.55,759.17 1277.55,762.42 1280.3,764.02 1280.3,760.76 "
+               points="1277.55,762.42 1280.3,764.02 1280.3,760.76 1277.55,759.17 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4797"
-               points="1281.32,761.35 1281.32,764.61 1284.08,766.2 1284.08,762.95 "
+               points="1281.32,764.61 1284.08,766.2 1284.08,762.95 1281.32,761.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4799"
-               points="1247.38,737.35 1247.38,740.6 1250.14,742.19 1250.14,738.94 "
+               points="1247.38,740.6 1250.14,742.19 1250.14,738.94 1247.38,737.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4801"
-               points="1251.15,739.53 1251.15,742.78 1253.91,744.38 1253.91,741.12 "
+               points="1251.15,742.78 1253.91,744.38 1253.91,741.12 1251.15,739.53 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4803"
-               points="1254.92,741.71 1254.92,744.96 1257.68,746.56 1257.68,743.3 "
+               points="1254.92,744.96 1257.68,746.56 1257.68,743.3 1254.92,741.71 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4805"
-               points="1258.69,743.89 1258.69,747.15 1261.45,748.74 1261.45,745.49 "
+               points="1258.69,747.15 1261.45,748.74 1261.45,745.49 1258.69,743.89 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4807"
-               points="1262.47,746.08 1262.47,749.33 1265.22,750.92 1265.22,747.67 "
+               points="1262.47,749.33 1265.22,750.92 1265.22,747.67 1262.47,746.08 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4809"
-               points="1266.24,748.26 1266.24,751.51 1268.99,753.11 1268.99,749.85 "
+               points="1266.24,751.51 1268.99,753.11 1268.99,749.85 1266.24,748.26 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4811"
-               points="1270.01,750.44 1270.01,753.7 1272.76,755.29 1272.76,752.03 "
+               points="1270.01,753.7 1272.76,755.29 1272.76,752.03 1270.01,750.44 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4813"
-               points="1273.78,752.62 1273.78,755.88 1276.53,757.47 1276.53,754.22 "
+               points="1273.78,755.88 1276.53,757.47 1276.53,754.22 1273.78,752.62 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4815"
-               points="1277.55,754.81 1277.55,758.06 1280.3,759.65 1280.3,756.4 "
+               points="1277.55,758.06 1280.3,759.65 1280.3,756.4 1277.55,754.81 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4817"
-               points="1281.32,756.99 1281.32,760.24 1284.08,761.84 1284.08,758.58 "
+               points="1281.32,760.24 1284.08,761.84 1284.08,758.58 1281.32,756.99 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4819"
-               points="1247.38,732.98 1247.38,736.23 1250.14,737.83 1250.14,734.57 "
+               points="1247.38,736.23 1250.14,737.83 1250.14,734.57 1247.38,732.98 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4821"
-               points="1251.15,735.16 1251.15,738.42 1253.91,740.01 1253.91,736.76 "
+               points="1251.15,738.42 1253.91,740.01 1253.91,736.76 1251.15,735.16 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4823"
-               points="1254.92,737.35 1254.92,740.6 1257.68,742.19 1257.68,738.94 "
+               points="1254.92,740.6 1257.68,742.19 1257.68,738.94 1254.92,737.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4825"
-               points="1258.69,739.53 1258.69,742.78 1261.45,744.38 1261.45,741.12 "
+               points="1258.69,742.78 1261.45,744.38 1261.45,741.12 1258.69,739.53 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4827"
-               points="1262.47,741.71 1262.47,744.96 1265.22,746.56 1265.22,743.3 "
+               points="1262.47,744.96 1265.22,746.56 1265.22,743.3 1262.47,741.71 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4829"
-               points="1266.24,743.89 1266.24,747.15 1268.99,748.74 1268.99,745.49 "
+               points="1266.24,747.15 1268.99,748.74 1268.99,745.49 1266.24,743.89 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4831"
-               points="1270.01,746.08 1270.01,749.33 1272.76,750.92 1272.76,747.67 "
+               points="1270.01,749.33 1272.76,750.92 1272.76,747.67 1270.01,746.08 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4833"
-               points="1277.55,750.44 1277.55,753.7 1280.3,755.29 1280.3,752.03 "
+               points="1277.55,753.7 1280.3,755.29 1280.3,752.03 1277.55,750.44 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4835"
-               points="1251.15,730.8 1251.15,734.05 1253.91,735.64 1253.91,732.39 "
+               points="1251.15,734.05 1253.91,735.64 1253.91,732.39 1251.15,730.8 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4837"
-               points="1254.92,732.98 1254.92,736.23 1257.68,737.83 1257.68,734.57 "
+               points="1254.92,736.23 1257.68,737.83 1257.68,734.57 1254.92,732.98 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4839"
-               points="1258.69,735.16 1258.69,738.42 1261.45,740.01 1261.45,736.76 "
+               points="1258.69,738.42 1261.45,740.01 1261.45,736.76 1258.69,735.16 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4841"
-               points="1262.47,737.35 1262.47,740.6 1265.22,742.19 1265.22,738.94 "
+               points="1262.47,740.6 1265.22,742.19 1265.22,738.94 1262.47,737.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4843"
-               points="1266.24,739.53 1266.24,742.78 1268.99,744.38 1268.99,741.12 "
+               points="1266.24,742.78 1268.99,744.38 1268.99,741.12 1266.24,739.53 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4845"
-               points="1270.01,741.71 1270.01,744.96 1272.76,746.56 1272.76,743.3 "
+               points="1270.01,744.96 1272.76,746.56 1272.76,743.3 1270.01,741.71 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4847"
-               points="1273.78,743.89 1273.78,747.15 1276.53,748.74 1276.53,745.49 "
+               points="1273.78,747.15 1276.53,748.74 1276.53,745.49 1273.78,743.89 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4849"
-               points="1277.55,746.08 1277.55,749.33 1280.3,750.92 1280.3,747.67 "
+               points="1277.55,749.33 1280.3,750.92 1280.3,747.67 1277.55,746.08 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4851"
-               points="1281.32,748.26 1281.32,751.51 1284.08,753.11 1284.08,749.85 "
+               points="1281.32,751.51 1284.08,753.11 1284.08,749.85 1281.32,748.26 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4853"
-               points="1247.38,724.25 1247.38,727.5 1250.14,729.1 1250.14,725.84 "
+               points="1247.38,727.5 1250.14,729.1 1250.14,725.84 1247.38,724.25 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4855"
-               points="1251.15,726.43 1251.15,729.68 1253.91,731.28 1253.91,728.02 "
+               points="1251.15,729.68 1253.91,731.28 1253.91,728.02 1251.15,726.43 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4857"
-               points="1254.92,728.61 1254.92,731.87 1257.68,733.46 1257.68,730.21 "
+               points="1254.92,731.87 1257.68,733.46 1257.68,730.21 1254.92,728.61 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4859"
-               points="1258.69,730.8 1258.69,734.05 1261.45,735.64 1261.45,732.39 "
+               points="1258.69,734.05 1261.45,735.64 1261.45,732.39 1258.69,730.8 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4861"
-               points="1262.47,732.98 1262.47,736.23 1265.22,737.83 1265.22,734.57 "
+               points="1262.47,736.23 1265.22,737.83 1265.22,734.57 1262.47,732.98 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4863"
-               points="1266.24,735.16 1266.24,738.42 1268.99,740.01 1268.99,736.76 "
+               points="1266.24,738.42 1268.99,740.01 1268.99,736.76 1266.24,735.16 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4865"
-               points="1270.01,737.35 1270.01,740.6 1272.76,742.19 1272.76,738.94 "
+               points="1270.01,740.6 1272.76,742.19 1272.76,738.94 1270.01,737.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4867"
-               points="1273.78,739.53 1273.78,742.78 1276.53,744.38 1276.53,741.12 "
+               points="1273.78,742.78 1276.53,744.38 1276.53,741.12 1273.78,739.53 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4869"
-               points="1277.55,741.71 1277.55,744.96 1280.3,746.56 1280.3,743.3 "
+               points="1277.55,744.96 1280.3,746.56 1280.3,743.3 1277.55,741.71 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4871"
-               points="1247.38,719.88 1247.38,723.14 1250.14,724.73 1250.14,721.48 "
+               points="1247.38,723.14 1250.14,724.73 1250.14,721.48 1247.38,719.88 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4873"
-               points="1251.15,722.07 1251.15,725.32 1253.91,726.91 1253.91,723.66 "
+               points="1251.15,725.32 1253.91,726.91 1253.91,723.66 1251.15,722.07 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4875"
-               points="1254.92,724.25 1254.92,727.5 1257.68,729.1 1257.68,725.84 "
+               points="1254.92,727.5 1257.68,729.1 1257.68,725.84 1254.92,724.25 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4877"
-               points="1258.69,726.43 1258.69,729.68 1261.45,731.28 1261.45,728.02 "
+               points="1258.69,729.68 1261.45,731.28 1261.45,728.02 1258.69,726.43 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4879"
-               points="1266.24,730.8 1266.24,734.05 1268.99,735.64 1268.99,732.39 "
+               points="1266.24,734.05 1268.99,735.64 1268.99,732.39 1266.24,730.8 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4881"
-               points="1270.01,732.98 1270.01,736.23 1272.76,737.83 1272.76,734.57 "
+               points="1270.01,736.23 1272.76,737.83 1272.76,734.57 1270.01,732.98 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4883"
-               points="1273.78,735.16 1273.78,738.42 1276.53,740.01 1276.53,736.76 "
+               points="1273.78,738.42 1276.53,740.01 1276.53,736.76 1273.78,735.16 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4885"
-               points="1277.55,737.35 1277.55,740.6 1280.3,742.19 1280.3,738.94 "
+               points="1277.55,740.6 1280.3,742.19 1280.3,738.94 1277.55,737.35 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4887"
-               points="1281.32,739.53 1281.32,742.78 1284.08,744.38 1284.08,741.12 "
+               points="1281.32,742.78 1284.08,744.38 1284.08,741.12 1281.32,739.53 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4889"
-               points="1251.15,717.7 1251.15,720.95 1253.91,722.55 1253.91,719.29 "
+               points="1251.15,720.95 1253.91,722.55 1253.91,719.29 1251.15,717.7 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4891"
-               points="1254.92,719.88 1254.92,723.14 1257.68,724.73 1257.68,721.48 "
+               points="1254.92,723.14 1257.68,724.73 1257.68,721.48 1254.92,719.88 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4893"
-               points="1258.69,722.07 1258.69,725.32 1261.45,726.91 1261.45,723.66 "
+               points="1258.69,725.32 1261.45,726.91 1261.45,723.66 1258.69,722.07 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4895"
-               points="1262.47,724.25 1262.47,727.5 1265.22,729.1 1265.22,725.84 "
+               points="1262.47,727.5 1265.22,729.1 1265.22,725.84 1262.47,724.25 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4897"
-               points="1266.24,726.43 1266.24,729.68 1268.99,731.28 1268.99,728.02 "
+               points="1266.24,729.68 1268.99,731.28 1268.99,728.02 1266.24,726.43 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4899"
-               points="1270.01,728.61 1270.01,731.87 1272.76,733.46 1272.76,730.21 "
+               points="1270.01,731.87 1272.76,733.46 1272.76,730.21 1270.01,728.61 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4901"
-               points="1273.78,730.8 1273.78,734.05 1276.53,735.64 1276.53,732.39 "
+               points="1273.78,734.05 1276.53,735.64 1276.53,732.39 1273.78,730.8 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4903"
-               points="1277.55,732.98 1277.55,736.23 1280.3,737.83 1280.3,734.57 "
+               points="1277.55,736.23 1280.3,737.83 1280.3,734.57 1277.55,732.98 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4905"
-               points="1281.32,735.16 1281.32,738.42 1284.08,740.01 1284.08,736.76 "
+               points="1281.32,738.42 1284.08,740.01 1284.08,736.76 1281.32,735.16 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4907"
-               points="1247.38,711.15 1247.38,714.41 1250.14,716 1250.14,712.75 "
+               points="1247.38,714.41 1250.14,716 1250.14,712.75 1247.38,711.15 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4909"
-               points="1251.15,713.34 1251.15,716.59 1253.91,718.18 1253.91,714.93 "
+               points="1251.15,716.59 1253.91,718.18 1253.91,714.93 1251.15,713.34 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4911"
-               points="1258.69,717.7 1258.69,720.95 1261.45,722.55 1261.45,719.29 "
+               points="1258.69,720.95 1261.45,722.55 1261.45,719.29 1258.69,717.7 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4913"
-               points="1262.47,719.88 1262.47,723.14 1265.22,724.73 1265.22,721.48 "
+               points="1262.47,723.14 1265.22,724.73 1265.22,721.48 1262.47,719.88 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4915"
-               points="1266.24,722.07 1266.24,725.32 1268.99,726.91 1268.99,723.66 "
+               points="1266.24,725.32 1268.99,726.91 1268.99,723.66 1266.24,722.07 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4917"
-               points="1270.01,724.25 1270.01,727.5 1272.76,729.1 1272.76,725.84 "
+               points="1270.01,727.5 1272.76,729.1 1272.76,725.84 1270.01,724.25 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4919"
-               points="1273.78,726.43 1273.78,729.68 1276.53,731.28 1276.53,728.02 "
+               points="1273.78,729.68 1276.53,731.28 1276.53,728.02 1273.78,726.43 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4921"
-               points="1277.55,728.61 1277.55,731.87 1280.3,733.46 1280.3,730.21 "
+               points="1277.55,731.87 1280.3,733.46 1280.3,730.21 1277.55,728.61 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4923"
-               points="1281.32,730.8 1281.32,734.05 1284.08,735.64 1284.08,732.39 "
+               points="1281.32,734.05 1284.08,735.64 1284.08,732.39 1281.32,730.8 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4925"
-               points="1247.38,706.79 1247.38,710.04 1250.14,711.63 1250.14,708.38 "
+               points="1247.38,710.04 1250.14,711.63 1250.14,708.38 1247.38,706.79 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4927"
-               points="1251.15,708.97 1251.15,712.22 1253.91,713.82 1253.91,710.56 "
+               points="1251.15,712.22 1253.91,713.82 1253.91,710.56 1251.15,708.97 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4929"
-               points="1254.92,711.15 1254.92,714.41 1257.68,716 1257.68,712.75 "
+               points="1254.92,714.41 1257.68,716 1257.68,712.75 1254.92,711.15 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4931"
-               points="1258.69,713.34 1258.69,716.59 1261.45,718.18 1261.45,714.93 "
+               points="1258.69,716.59 1261.45,718.18 1261.45,714.93 1258.69,713.34 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4933"
-               points="1262.47,715.52 1262.47,718.77 1265.22,720.37 1265.22,717.11 "
+               points="1262.47,718.77 1265.22,720.37 1265.22,717.11 1262.47,715.52 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4935"
-               points="1266.24,717.7 1266.24,720.95 1268.99,722.55 1268.99,719.29 "
+               points="1266.24,720.95 1268.99,722.55 1268.99,719.29 1266.24,717.7 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4937"
-               points="1270.01,719.88 1270.01,723.14 1272.76,724.73 1272.76,721.48 "
+               points="1270.01,723.14 1272.76,724.73 1272.76,721.48 1270.01,719.88 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4939"
-               points="1273.78,722.07 1273.78,725.32 1276.53,726.91 1276.53,723.66 "
+               points="1273.78,725.32 1276.53,726.91 1276.53,723.66 1273.78,722.07 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4941"
-               points="1277.55,724.25 1277.55,727.5 1280.3,729.1 1280.3,725.84 "
+               points="1277.55,727.5 1280.3,729.1 1280.3,725.84 1277.55,724.25 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4943"
-               points="1281.32,726.43 1281.32,729.68 1284.08,731.28 1284.08,728.02 "
+               points="1281.32,729.68 1284.08,731.28 1284.08,728.02 1281.32,726.43 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4945"
-               points="1247.38,702.42 1247.38,705.68 1250.14,707.27 1250.14,704.02 "
+               points="1247.38,705.68 1250.14,707.27 1250.14,704.02 1247.38,702.42 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4947"
-               points="1251.15,704.61 1251.15,707.86 1253.91,709.45 1253.91,706.2 "
+               points="1251.15,707.86 1253.91,709.45 1253.91,706.2 1251.15,704.61 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4949"
-               points="1254.92,706.79 1254.92,710.04 1257.68,711.63 1257.68,708.38 "
+               points="1254.92,710.04 1257.68,711.63 1257.68,708.38 1254.92,706.79 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4951"
-               points="1258.69,708.97 1258.69,712.22 1261.45,713.82 1261.45,710.56 "
+               points="1258.69,712.22 1261.45,713.82 1261.45,710.56 1258.69,708.97 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4953"
-               points="1262.47,711.15 1262.47,714.41 1265.22,716 1265.22,712.75 "
+               points="1262.47,714.41 1265.22,716 1265.22,712.75 1262.47,711.15 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4955"
-               points="1266.24,713.34 1266.24,716.59 1268.99,718.18 1268.99,714.93 "
+               points="1266.24,716.59 1268.99,718.18 1268.99,714.93 1266.24,713.34 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4957"
-               points="1270.01,715.52 1270.01,718.77 1272.76,720.37 1272.76,717.11 "
+               points="1270.01,718.77 1272.76,720.37 1272.76,717.11 1270.01,715.52 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4959"
-               points="1273.78,717.7 1273.78,720.95 1276.53,722.55 1276.53,719.29 "
+               points="1273.78,720.95 1276.53,722.55 1276.53,719.29 1273.78,717.7 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4961"
-               points="1281.32,722.07 1281.32,725.32 1284.08,726.91 1284.08,723.66 "
+               points="1281.32,725.32 1284.08,726.91 1284.08,723.66 1281.32,722.07 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4963"
-               points="1247.38,698.06 1247.38,701.31 1250.14,702.9 1250.14,699.65 "
+               points="1247.38,701.31 1250.14,702.9 1250.14,699.65 1247.38,698.06 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4965"
-               points="1251.15,700.24 1251.15,703.49 1253.91,705.09 1253.91,701.83 "
+               points="1251.15,703.49 1253.91,705.09 1253.91,701.83 1251.15,700.24 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4967"
-               points="1254.92,702.42 1254.92,705.68 1257.68,707.27 1257.68,704.02 "
+               points="1254.92,705.68 1257.68,707.27 1257.68,704.02 1254.92,702.42 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4969"
-               points="1262.47,706.79 1262.47,710.04 1265.22,711.63 1265.22,708.38 "
+               points="1262.47,710.04 1265.22,711.63 1265.22,708.38 1262.47,706.79 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4971"
-               points="1266.24,708.97 1266.24,712.22 1268.99,713.82 1268.99,710.56 "
+               points="1266.24,712.22 1268.99,713.82 1268.99,710.56 1266.24,708.97 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4973"
-               points="1270.01,711.15 1270.01,714.41 1272.76,716 1272.76,712.75 "
+               points="1270.01,714.41 1272.76,716 1272.76,712.75 1270.01,711.15 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4975"
-               points="1273.78,713.34 1273.78,716.59 1276.53,718.18 1276.53,714.93 "
+               points="1273.78,716.59 1276.53,718.18 1276.53,714.93 1273.78,713.34 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4977"
-               points="1277.55,715.52 1277.55,718.77 1280.3,720.37 1280.3,717.11 "
+               points="1277.55,718.77 1280.3,720.37 1280.3,717.11 1277.55,715.52 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4979"
-               points="1281.32,717.7 1281.32,720.95 1284.08,722.55 1284.08,719.29 "
+               points="1281.32,720.95 1284.08,722.55 1284.08,719.29 1281.32,717.7 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4981"
-               points="1247.38,693.69 1247.38,696.95 1250.14,698.54 1250.14,695.28 "
+               points="1247.38,696.95 1250.14,698.54 1250.14,695.28 1247.38,693.69 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4983"
-               points="1254.92,698.06 1254.92,701.31 1257.68,702.9 1257.68,699.65 "
+               points="1254.92,701.31 1257.68,702.9 1257.68,699.65 1254.92,698.06 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4985"
-               points="1258.69,700.24 1258.69,703.49 1261.45,705.09 1261.45,701.83 "
+               points="1258.69,703.49 1261.45,705.09 1261.45,701.83 1258.69,700.24 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4987"
-               points="1262.47,702.42 1262.47,705.68 1265.22,707.27 1265.22,704.02 "
+               points="1262.47,705.68 1265.22,707.27 1265.22,704.02 1262.47,702.42 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4989"
-               points="1266.24,704.61 1266.24,707.86 1268.99,709.45 1268.99,706.2 "
+               points="1266.24,707.86 1268.99,709.45 1268.99,706.2 1266.24,704.61 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4991"
-               points="1270.01,706.79 1270.01,710.04 1272.76,711.63 1272.76,708.38 "
+               points="1270.01,710.04 1272.76,711.63 1272.76,708.38 1270.01,706.79 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4993"
-               points="1273.78,708.97 1273.78,712.22 1276.53,713.82 1276.53,710.56 "
+               points="1273.78,712.22 1276.53,713.82 1276.53,710.56 1273.78,708.97 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4995"
-               points="1277.55,711.15 1277.55,714.41 1280.3,716 1280.3,712.75 "
+               points="1277.55,714.41 1280.3,716 1280.3,712.75 1277.55,711.15 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4997"
-               points="1281.32,713.34 1281.32,716.59 1284.08,718.18 1284.08,714.93 "
+               points="1281.32,716.59 1284.08,718.18 1284.08,714.93 1281.32,713.34 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon4999"
-               points="1247.38,689.23 1247.38,692.48 1250.14,694.07 1250.14,690.82 "
+               points="1247.38,692.48 1250.14,694.07 1250.14,690.82 1247.38,689.23 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5001"
-               points="1251.15,691.41 1251.15,694.66 1253.91,696.25 1253.91,693 "
+               points="1251.15,694.66 1253.91,696.25 1253.91,693 1251.15,691.41 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5003"
-               points="1254.92,693.59 1254.92,696.84 1257.68,698.44 1257.68,695.18 "
+               points="1254.92,696.84 1257.68,698.44 1257.68,695.18 1254.92,693.59 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5005"
-               points="1258.69,695.77 1258.69,699.03 1261.45,700.62 1261.45,697.37 "
+               points="1258.69,699.03 1261.45,700.62 1261.45,697.37 1258.69,695.77 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5007"
-               points="1262.47,697.96 1262.47,701.21 1265.22,702.8 1265.22,699.55 "
+               points="1262.47,701.21 1265.22,702.8 1265.22,699.55 1262.47,697.96 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5009"
-               points="1266.24,700.14 1266.24,703.39 1268.99,704.99 1268.99,701.73 "
+               points="1266.24,703.39 1268.99,704.99 1268.99,701.73 1266.24,700.14 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5011"
-               points="1270.01,702.32 1270.01,705.58 1272.76,707.17 1272.76,703.91 "
+               points="1270.01,705.58 1272.76,707.17 1272.76,703.91 1270.01,702.32 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5013"
-               points="1277.55,706.69 1277.55,709.94 1280.3,711.53 1280.3,708.28 "
+               points="1277.55,709.94 1280.3,711.53 1280.3,708.28 1277.55,706.69 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5015"
-               points="1281.32,708.87 1281.32,712.12 1284.08,713.72 1284.08,710.46 "
+               points="1281.32,712.12 1284.08,713.72 1284.08,710.46 1281.32,708.87 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5017"
-               points="1247.38,684.86 1247.38,688.11 1250.14,689.71 1250.14,686.45 "
+               points="1247.38,688.11 1250.14,689.71 1250.14,686.45 1247.38,684.86 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5019"
-               points="1251.15,687.04 1251.15,690.3 1253.91,691.89 1253.91,688.64 "
+               points="1251.15,690.3 1253.91,691.89 1253.91,688.64 1251.15,687.04 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5021"
-               points="1254.92,689.23 1254.92,692.48 1257.68,694.07 1257.68,690.82 "
+               points="1254.92,692.48 1257.68,694.07 1257.68,690.82 1254.92,689.23 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5023"
-               points="1262.47,693.59 1262.47,696.84 1265.22,698.44 1265.22,695.18 "
+               points="1262.47,696.84 1265.22,698.44 1265.22,695.18 1262.47,693.59 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5025"
-               points="1266.24,695.77 1266.24,699.03 1268.99,700.62 1268.99,697.37 "
+               points="1266.24,699.03 1268.99,700.62 1268.99,697.37 1266.24,695.77 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5027"
-               points="1270.01,697.96 1270.01,701.21 1272.76,702.8 1272.76,699.55 "
+               points="1270.01,701.21 1272.76,702.8 1272.76,699.55 1270.01,697.96 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5029"
-               points="1277.55,702.32 1277.55,705.58 1280.3,707.17 1280.3,703.91 "
+               points="1277.55,705.58 1280.3,707.17 1280.3,703.91 1277.55,702.32 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5031"
-               points="1281.32,704.5 1281.32,707.76 1284.08,709.35 1284.08,706.1 "
+               points="1281.32,707.76 1284.08,709.35 1284.08,706.1 1281.32,704.5 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5033"
-               points="1247.38,680.49 1247.38,683.75 1250.14,685.34 1250.14,682.09 "
+               points="1247.38,683.75 1250.14,685.34 1250.14,682.09 1247.38,680.49 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5035"
-               points="1251.15,682.68 1251.15,685.93 1253.91,687.52 1253.91,684.27 "
+               points="1251.15,685.93 1253.91,687.52 1253.91,684.27 1251.15,682.68 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5037"
-               points="1254.92,684.86 1254.92,688.11 1257.68,689.71 1257.68,686.45 "
+               points="1254.92,688.11 1257.68,689.71 1257.68,686.45 1254.92,684.86 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5039"
-               points="1262.47,689.23 1262.47,692.48 1265.22,694.07 1265.22,690.82 "
+               points="1262.47,692.48 1265.22,694.07 1265.22,690.82 1262.47,689.23 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5041"
-               points="1266.24,691.41 1266.24,694.66 1268.99,696.25 1268.99,693 "
+               points="1266.24,694.66 1268.99,696.25 1268.99,693 1266.24,691.41 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5043"
-               points="1270.01,693.59 1270.01,696.84 1272.76,698.44 1272.76,695.18 "
+               points="1270.01,696.84 1272.76,698.44 1272.76,695.18 1270.01,693.59 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5045"
-               points="1273.78,695.77 1273.78,699.03 1276.53,700.62 1276.53,697.37 "
+               points="1273.78,699.03 1276.53,700.62 1276.53,697.37 1273.78,695.77 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5047"
-               points="1277.55,697.96 1277.55,701.21 1280.3,702.8 1280.3,699.55 "
+               points="1277.55,701.21 1280.3,702.8 1280.3,699.55 1277.55,697.96 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5049"
-               points="1281.32,700.14 1281.32,703.39 1284.08,704.99 1284.08,701.73 "
+               points="1281.32,703.39 1284.08,704.99 1284.08,701.73 1281.32,700.14 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5051"
-               points="1247.38,676.13 1247.38,679.38 1250.14,680.98 1250.14,677.72 "
+               points="1247.38,679.38 1250.14,680.98 1250.14,677.72 1247.38,676.13 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5053"
-               points="1251.15,678.31 1251.15,681.57 1253.91,683.16 1253.91,679.9 "
+               points="1251.15,681.57 1253.91,683.16 1253.91,679.9 1251.15,678.31 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5055"
-               points="1254.92,680.49 1254.92,683.75 1257.68,685.34 1257.68,682.09 "
+               points="1254.92,683.75 1257.68,685.34 1257.68,682.09 1254.92,680.49 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5057"
-               points="1262.47,684.86 1262.47,688.11 1265.22,689.71 1265.22,686.45 "
+               points="1262.47,688.11 1265.22,689.71 1265.22,686.45 1262.47,684.86 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5059"
-               points="1266.24,687.04 1266.24,690.3 1268.99,691.89 1268.99,688.64 "
+               points="1266.24,690.3 1268.99,691.89 1268.99,688.64 1266.24,687.04 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5061"
-               points="1270.01,689.23 1270.01,692.48 1272.76,694.07 1272.76,690.82 "
+               points="1270.01,692.48 1272.76,694.07 1272.76,690.82 1270.01,689.23 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5063"
-               points="1273.78,691.41 1273.78,694.66 1276.53,696.25 1276.53,693 "
+               points="1273.78,694.66 1276.53,696.25 1276.53,693 1273.78,691.41 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5065"
-               points="1277.55,693.59 1277.55,696.84 1280.3,698.44 1280.3,695.18 "
+               points="1277.55,696.84 1280.3,698.44 1280.3,695.18 1277.55,693.59 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5067"
-               points="1281.32,695.77 1281.32,699.03 1284.08,700.62 1284.08,697.37 "
+               points="1281.32,699.03 1284.08,700.62 1284.08,697.37 1281.32,695.77 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5069"
-               points="1247.38,671.76 1247.38,675.02 1250.14,676.61 1250.14,673.36 "
+               points="1247.38,675.02 1250.14,676.61 1250.14,673.36 1247.38,671.76 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5071"
-               points="1251.15,673.95 1251.15,677.2 1253.91,678.79 1253.91,675.54 "
+               points="1251.15,677.2 1253.91,678.79 1253.91,675.54 1251.15,673.95 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5073"
-               points="1254.92,676.13 1254.92,679.38 1257.68,680.98 1257.68,677.72 "
+               points="1254.92,679.38 1257.68,680.98 1257.68,677.72 1254.92,676.13 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5075"
-               points="1266.24,682.68 1266.24,685.93 1268.99,687.52 1268.99,684.27 "
+               points="1266.24,685.93 1268.99,687.52 1268.99,684.27 1266.24,682.68 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5077"
-               points="1270.01,684.86 1270.01,688.11 1272.76,689.71 1272.76,686.45 "
+               points="1270.01,688.11 1272.76,689.71 1272.76,686.45 1270.01,684.86 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5079"
-               points="1273.78,687.04 1273.78,690.3 1276.53,691.89 1276.53,688.64 "
+               points="1273.78,690.3 1276.53,691.89 1276.53,688.64 1273.78,687.04 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5081"
-               points="1277.55,689.23 1277.55,692.48 1280.3,694.07 1280.3,690.82 "
+               points="1277.55,692.48 1280.3,694.07 1280.3,690.82 1277.55,689.23 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5083"
-               points="1247.38,667.4 1247.38,670.65 1250.14,672.25 1250.14,668.99 "
+               points="1247.38,670.65 1250.14,672.25 1250.14,668.99 1247.38,667.4 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5085"
-               points="1254.92,671.76 1254.92,675.02 1257.68,676.61 1257.68,673.36 "
+               points="1254.92,675.02 1257.68,676.61 1257.68,673.36 1254.92,671.76 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5087"
-               points="1270.01,680.49 1270.01,683.75 1272.76,685.34 1272.76,682.09 "
+               points="1270.01,683.75 1272.76,685.34 1272.76,682.09 1270.01,680.49 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5089"
-               points="1273.78,682.68 1273.78,685.93 1276.53,687.52 1276.53,684.27 "
+               points="1273.78,685.93 1276.53,687.52 1276.53,684.27 1273.78,682.68 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5091"
-               points="1277.55,684.86 1277.55,688.11 1280.3,689.71 1280.3,686.45 "
+               points="1277.55,688.11 1280.3,689.71 1280.3,686.45 1277.55,684.86 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5093"
-               points="1281.32,687.04 1281.32,690.3 1284.08,691.89 1284.08,688.64 "
+               points="1281.32,690.3 1284.08,691.89 1284.08,688.64 1281.32,687.04 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5095"
-               points="1247.38,663.03 1247.38,666.29 1250.14,667.88 1250.14,664.63 "
+               points="1247.38,666.29 1250.14,667.88 1250.14,664.63 1247.38,663.03 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5097"
-               points="1254.92,667.4 1254.92,670.65 1257.68,672.25 1257.68,668.99 "
+               points="1254.92,670.65 1257.68,672.25 1257.68,668.99 1254.92,667.4 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5099"
-               points="1266.24,673.95 1266.24,677.2 1268.99,678.79 1268.99,675.54 "
+               points="1266.24,677.2 1268.99,678.79 1268.99,675.54 1266.24,673.95 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5101"
-               points="1273.78,678.31 1273.78,681.57 1276.53,683.16 1276.53,679.9 "
+               points="1273.78,681.57 1276.53,683.16 1276.53,679.9 1273.78,678.31 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5103"
-               points="1277.55,680.49 1277.55,683.75 1280.3,685.34 1280.3,682.09 "
+               points="1277.55,683.75 1280.3,685.34 1280.3,682.09 1277.55,680.49 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5105"
-               points="1281.32,682.68 1281.32,685.93 1284.08,687.52 1284.08,684.27 "
+               points="1281.32,685.93 1284.08,687.52 1284.08,684.27 1281.32,682.68 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5107"
-               points="1254.92,663.03 1254.92,666.29 1257.68,667.88 1257.68,664.63 "
+               points="1254.92,666.29 1257.68,667.88 1257.68,664.63 1254.92,663.03 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5109"
-               points="1266.24,669.58 1266.24,672.83 1268.99,674.43 1268.99,671.17 "
+               points="1266.24,672.83 1268.99,674.43 1268.99,671.17 1266.24,669.58 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5111"
-               points="1270.01,671.76 1270.01,675.02 1272.76,676.61 1272.76,673.36 "
+               points="1270.01,675.02 1272.76,676.61 1272.76,673.36 1270.01,671.76 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5113"
-               points="1273.78,673.95 1273.78,677.2 1276.53,678.79 1276.53,675.54 "
+               points="1273.78,677.2 1276.53,678.79 1276.53,675.54 1273.78,673.95 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5115"
-               points="1277.55,676.13 1277.55,679.38 1280.3,680.98 1280.3,677.72 "
+               points="1277.55,679.38 1280.3,680.98 1280.3,677.72 1277.55,676.13 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5117"
-               points="1281.32,678.31 1281.32,681.57 1284.08,683.16 1284.08,679.9 "
+               points="1281.32,681.57 1284.08,683.16 1284.08,679.9 1281.32,678.31 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5119"
-               points="1247.38,654.3 1247.38,657.56 1250.14,659.15 1250.14,655.89 "
+               points="1247.38,657.56 1250.14,659.15 1250.14,655.89 1247.38,654.3 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5121"
-               points="1254.92,658.67 1254.92,661.92 1257.68,663.51 1257.68,660.26 "
+               points="1254.92,661.92 1257.68,663.51 1257.68,660.26 1254.92,658.67 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5123"
-               points="1266.24,665.22 1266.24,668.47 1268.99,670.06 1268.99,666.81 "
+               points="1266.24,668.47 1268.99,670.06 1268.99,666.81 1266.24,665.22 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5125"
-               points="1270.01,667.4 1270.01,670.65 1272.76,672.25 1272.76,668.99 "
+               points="1270.01,670.65 1272.76,672.25 1272.76,668.99 1270.01,667.4 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5127"
-               points="1273.78,669.58 1273.78,672.83 1276.53,674.43 1276.53,671.17 "
+               points="1273.78,672.83 1276.53,674.43 1276.53,671.17 1273.78,669.58 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5129"
-               points="1277.55,671.76 1277.55,675.02 1280.3,676.61 1280.3,673.36 "
+               points="1277.55,675.02 1280.3,676.61 1280.3,673.36 1277.55,671.76 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5131"
-               points="1281.32,673.95 1281.32,677.2 1284.08,678.79 1284.08,675.54 "
+               points="1281.32,677.2 1284.08,678.79 1284.08,675.54 1281.32,673.95 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5133"
-               points="1262.47,658.67 1262.47,661.92 1265.22,663.51 1265.22,660.26 "
+               points="1262.47,661.92 1265.22,663.51 1265.22,660.26 1262.47,658.67 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5135"
-               points="1266.24,660.85 1266.24,664.1 1268.99,665.7 1268.99,662.44 "
+               points="1266.24,664.1 1268.99,665.7 1268.99,662.44 1266.24,660.85 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5137"
-               points="1270.01,663.03 1270.01,666.29 1272.76,667.88 1272.76,664.63 "
+               points="1270.01,666.29 1272.76,667.88 1272.76,664.63 1270.01,663.03 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5139"
-               points="1281.32,669.58 1281.32,672.83 1284.08,674.43 1284.08,671.17 "
+               points="1281.32,672.83 1284.08,674.43 1284.08,671.17 1281.32,669.58 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5141"
-               points="1262.47,654.3 1262.47,657.56 1265.22,659.15 1265.22,655.89 "
+               points="1262.47,657.56 1265.22,659.15 1265.22,655.89 1262.47,654.3 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5143"
-               points="1270.01,658.67 1270.01,661.92 1272.76,663.51 1272.76,660.26 "
+               points="1270.01,661.92 1272.76,663.51 1272.76,660.26 1270.01,658.67 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5145"
-               points="1281.32,665.22 1281.32,668.47 1284.08,670.06 1284.08,666.81 "
+               points="1281.32,668.47 1284.08,670.06 1284.08,666.81 1281.32,665.22 "
                class="cls-6"
                style="fill:#ffffff" />
             <polygon
                id="polygon5147"
-               points="1281.32,660.85 1281.32,664.1 1284.08,665.7 1284.08,662.44 "
+               points="1281.32,664.1 1284.08,665.7 1284.08,662.44 1281.32,660.85 "
                class="cls-6"
                style="fill:#ffffff" />
           </g>
@@ -3036,9 +2860,9 @@
              style="fill:#ffffff" />
           <polygon
              id="polygon5155"
-             points="607.65,457.07 35.34,787.17 308.44,944.78 879.97,614.23 "
+             points="35.34,787.17 308.44,944.78 879.97,614.23 607.65,457.07 "
              class="cls-25"
-             style="fill:url(#linear-gradient-5)" />
+             style="fill:#2f2f2f;fill-opacity:1" />
           <path
              id="path5157"
              d="m 5.47,830.22 0.24,0.45 c 0,0.06 0.06,0.12 0.09,0.17 v 0 a 17.71,17.71 0 0 0 6.47,6.42 l 237.8,137.57 a 48.6,48.6 0 0 0 48.57,0 l 593,-342 a 20.28,20.28 0 0 0 8.39,-9.19 v 0 A 46.7,46.7 0 0 0 905.28,607 46.61,46.61 0 0 1 900,633.69 v 0 a 20.25,20.25 0 0 1 -8.39,9.18 l -593,342 a 48.6,48.6 0 0 1 -48.57,0 L 12.29,847.33 a 17.76,17.76 0 0 1 -6.47,-6.41 v 0 A 0.91,0.91 0 0 0 5.73,840.75 L 5.49,840.3 a 39.91,39.91 0 0 1 -5.17,-25.25 39.67,39.67 0 0 0 5.15,15.17 z"
@@ -3167,17 +2991,17 @@
              style="mix-blend-mode:overlay;fill:#ffffff" />
           <polygon
              id="polygon5199"
-             points="559.42,5.68 122.66,257.02 122.66,539.63 559.42,288.28 "
+             points="122.66,257.02 122.66,539.63 559.42,288.28 559.42,5.68 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#222222;fill-opacity:1" />
           <polygon
              id="polygon5201"
-             points="549.46,0 559.42,5.68 122.66,257.02 112.72,251.31 "
+             points="559.42,5.68 122.66,257.02 112.72,251.31 549.46,0 "
              class="cls-3"
              style="fill:#c9dafc" />
           <polygon
              id="polygon5203"
-             points="112.72,251.31 122.66,257.02 122.66,539.63 112.72,533.91 "
+             points="122.66,257.02 122.66,539.63 112.72,533.91 112.72,251.31 "
              class="cls-4"
              style="fill:#b8bcfc" />
           <path
@@ -3218,117 +3042,117 @@
              style="fill:#b8bcfc" />
           <polygon
              id="polygon5217"
-             points="600.26,29.34 163.5,280.69 163.5,563.29 600.26,311.94 "
+             points="163.5,280.69 163.5,563.29 600.26,311.94 600.26,29.34 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5219"
-             points="573.99,14.18 600.26,29.34 163.5,280.69 137.25,265.49 "
+             points="600.26,29.34 163.5,280.69 137.25,265.49 573.99,14.18 "
              class="cls-3"
              style="fill:#c9dafc" />
           <polygon
              id="polygon5221"
-             points="137.25,265.49 163.5,280.69 163.5,563.29 137.25,548.09 "
+             points="163.5,280.69 163.5,563.29 137.25,548.09 137.25,265.49 "
              class="cls-4"
              style="fill:#b8bcfc" />
           <polygon
              id="polygon5223"
-             points="519.43,52.01 534.2,60.53 567.22,41.52 552.46,33 "
+             points="534.2,60.53 567.22,41.52 552.46,33 519.43,52.01 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5225"
-             points="523.42,54.3 552.46,37.59 563.24,43.82 567.22,41.52 552.46,33 519.43,52.01 "
+             points="519.43,52.01 523.42,54.3 552.46,37.59 563.24,43.82 567.22,41.52 552.46,33 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5227"
-             points="481.01,74.15 495.78,82.67 528.8,63.67 514.04,55.15 "
+             points="495.78,82.67 528.8,63.67 514.04,55.15 481.01,74.15 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5229"
-             points="485,76.45 514.04,59.74 524.82,65.96 528.8,63.67 514.04,55.15 481.01,74.15 "
+             points="481.01,74.15 485,76.45 514.04,59.74 524.82,65.96 528.8,63.67 514.04,55.15 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5231"
-             points="442.59,96.3 457.36,104.82 490.38,85.81 475.62,77.29 "
+             points="457.36,104.82 490.38,85.81 475.62,77.29 442.59,96.3 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5233"
-             points="446.58,98.59 475.62,81.88 486.4,88.11 490.38,85.81 475.62,77.29 442.59,96.3 "
+             points="442.59,96.3 446.58,98.59 475.62,81.88 486.4,88.11 490.38,85.81 475.62,77.29 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5235"
-             points="404.17,118.44 418.94,126.96 451.96,107.96 437.2,99.44 "
+             points="418.94,126.96 451.96,107.96 437.2,99.44 404.17,118.44 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5237"
-             points="408.16,120.74 437.2,104.03 447.98,110.25 451.96,107.96 437.2,99.44 404.17,118.44 "
+             points="404.17,118.44 408.16,120.74 437.2,104.03 447.98,110.25 451.96,107.96 437.2,99.44 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5239"
-             points="365.75,140.59 380.52,149.11 413.54,130.1 398.78,121.58 "
+             points="380.52,149.11 413.54,130.1 398.78,121.58 365.75,140.59 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5241"
-             points="369.74,142.88 398.78,126.17 409.56,132.4 413.54,130.1 398.78,121.58 365.75,140.58 "
+             points="365.75,140.58 369.74,142.88 398.78,126.17 409.56,132.4 413.54,130.1 398.78,121.58 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5243"
-             points="327.33,162.73 342.1,171.25 375.12,152.25 360.36,143.73 "
+             points="342.1,171.25 375.12,152.25 360.36,143.73 327.33,162.73 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5245"
-             points="331.32,165.03 360.36,148.32 371.14,154.54 375.12,152.25 360.36,143.73 327.33,162.73 "
+             points="327.33,162.73 331.32,165.03 360.36,148.32 371.14,154.54 375.12,152.25 360.36,143.73 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5247"
-             points="288.91,184.87 303.68,193.4 336.7,174.39 321.94,165.87 "
+             points="303.68,193.4 336.7,174.39 321.94,165.87 288.91,184.87 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5249"
-             points="292.9,187.17 321.94,170.46 332.72,176.68 336.7,174.39 321.94,165.87 288.91,184.87 "
+             points="288.91,184.87 292.9,187.17 321.94,170.46 332.72,176.68 336.7,174.39 321.94,165.87 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5251"
-             points="250.49,207.02 265.26,215.54 298.28,196.54 283.52,188.02 "
+             points="265.26,215.54 298.28,196.54 283.52,188.02 250.49,207.02 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5253"
-             points="254.48,209.32 283.52,192.61 294.3,198.83 298.28,196.54 283.52,188.02 250.49,207.02 "
+             points="250.49,207.02 254.48,209.32 283.52,192.61 294.3,198.83 298.28,196.54 283.52,188.02 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5255"
-             points="212.07,229.16 226.84,237.68 259.86,218.68 245.1,210.16 "
+             points="226.84,237.68 259.86,218.68 245.1,210.16 212.07,229.16 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5257"
-             points="216.06,231.46 245.1,214.75 255.88,220.97 259.86,218.68 245.1,210.16 212.07,229.16 "
+             points="212.07,229.16 216.06,231.46 245.1,214.75 255.88,220.97 259.86,218.68 245.1,210.16 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5259"
-             points="173.66,251.31 188.42,259.83 221.44,240.82 206.68,232.31 "
+             points="188.42,259.83 221.44,240.82 206.68,232.31 173.66,251.31 "
              class="cls-22"
              style="fill:#5f546f" />
           <polygon
              id="polygon5261"
-             points="177.64,253.6 206.68,236.9 217.46,243.12 221.44,240.82 206.68,232.3 173.66,251.31 "
+             points="173.66,251.31 177.64,253.6 206.68,236.9 217.46,243.12 221.44,240.82 206.68,232.3 "
              class="cls-6"
              style="fill:#ffffff" />
           <path
@@ -3336,13 +3160,13 @@
              d="M 600.26,308.71 591,265.49 c 0,0 -201.23,49.51 -365.09,-20.72 l -62.41,35.92 v 282.6 L 600.26,311.94 Z"
              class="cls-29"
              inkscape:connector-curvature="0"
-             style="fill:#f5d97e" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5265"
              d="M 364.88,447.31 600.26,311.85 V 144 C 545.1,186.56 433,287.45 364.88,447.31 Z"
              class="cls-30"
              inkscape:connector-curvature="0"
-             style="fill:#ff7ad2" />
+             style="fill:#222222;fill-opacity:1" />
           <g
              id="g5285"
              clip-path="url(#clip-path)"
@@ -3352,7 +3176,7 @@
                d="m 220.23,460.19 c 0,-0.39 0.05,-0.59 0.05,-0.6 17.5,-31.42 14.2,-48.91 11.32,-59.46 a 46.9,46.9 0 0 0 5,-0.1 h 0.35 a 36.91,36.91 0 0 0 6.14,-1.17 16.79,16.79 0 0 0 3.92,-1.68 28.22,28.22 0 0 0 7,-5.95 c 5.86,11.54 19.59,10.35 20.31,10.28 14.94,-13.27 22.68,-33.1 22.68,-33.12 a 6,6 0 0 0 0.86,0.09 h 0.35 0.69 c 0.64,0 1.3,0 2.88,-0.11 C 308,368 315,367.19 320,366.49 l -2.73,37.91 c 8.4,22.63 5.12,38.08 3.4,42.9 l -44.52,25.7 -36.9,21.3 -15.58,9 c -5.3,-13.83 -3.75,-38.9 -3.44,-43.11 z"
                class="cls-32"
                inkscape:connector-curvature="0"
-               style="fill:#7270e0" />
+               style="fill:#222222;fill-opacity:1" />
             <path
                id="path5269"
                d="m 247.36,324.1 0.35,-0.45 c 4.19,-2.22 8.36,-4.39 12.55,-6.61 l 0.53,-0.3 c 2.81,-1.62 4.36,-3.61 4.55,-5.79 a 3.07,3.07 0 0 0 -0.52,-2.34 c 4.52,-2.09 8.49,-4.16 12,-6.17 16.69,-9.63 22.32,-18.08 24.22,-22.84 4.72,0.69 8.27,4.43 10.44,7.49 a 149.32,149.32 0 0 1 -3.37,26.45 c -0.89,4.1 -2,8.26 -3.29,12.36 -3.51,11 -8.57,21.6 -15.61,29.46 a 42.06,42.06 0 0 1 -10.28,8.52 35.21,35.21 0 0 1 -4.75,2.29 c -4.51,1.77 -8.26,2.18 -11.39,1.67 -8.08,-1.31 -12,-8.84 -13.87,-15.39 a 48.8,48.8 0 0 1 -1.69,-9.52 c 0,-0.46 0,-0.71 0,-0.72 a 137.65,137.65 0 0 1 0.13,-18.11 z"
@@ -3404,47 +3228,47 @@
           </g>
           <polygon
              id="polygon5287"
-             points="422.25,381.26 422.25,387.72 583.47,294.36 583.47,287.89 "
+             points="422.25,387.72 583.47,294.36 583.47,287.89 422.25,381.26 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5289"
-             points="499.98,323.61 499.98,330.07 583.47,281.72 583.47,275.26 "
+             points="499.98,330.07 583.47,281.72 583.47,275.26 499.98,323.61 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5291"
-             points="427.45,157.28 424.33,159.08 433.31,173.31 433.35,185.65 436.11,184.05 436.08,171.71 444.87,147.23 441.79,149.01 434.69,169.6 "
+             points="436.08,171.71 444.87,147.23 441.79,149.01 434.69,169.6 427.45,157.28 424.33,159.08 433.31,173.31 433.35,185.65 436.11,184.05 "
              class="cls-32"
-             style="fill:#7270e0" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5293"
              d="m 409.8,167.48 0.05,20 c 0,6.58 -2.89,10.95 -7.2,13.43 -4.31,2.48 -7.31,1.55 -7.33,-5 l -0.06,-20 -2.76,1.59 0.06,19.92 c 0,8.4 4.46,9.56 10.06,6.33 a 20.2,20.2 0 0 0 10,-17.91 l -0.06,-19.92 z"
              class="cls-32"
              inkscape:connector-curvature="0"
-             style="fill:#7270e0" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5295"
              d="m 374.1,203.45 a 14.11,14.11 0 0 0 4.92,-10.2 c 0,-4.45 -2.79,-6.39 -8.59,-3 l -9.28,5.36 0.09,31.72 9.55,-5.52 c 5.81,-3.35 8.91,-8.87 8.9,-13.64 -0.01,-4.03 -2.51,-5.86 -5.59,-4.72 z m -10.18,-6.8 6.32,-3.65 c 4,-2.3 6,-1.22 6,2.19 0,3.41 -2.08,6.92 -5.83,9.08 L 364,208 Z m 6.66,22.56 L 364,223 v -12.39 l 6.48,-3.74 c 3.95,-2.28 6.49,-1.29 6.5,2.53 0.01,3.82 -2.41,7.5 -6.4,9.81 z"
              class="cls-32"
              inkscape:connector-curvature="0"
-             style="fill:#7270e0" />
+             style="fill:#222222;fill-opacity:1" />
           <polygon
              id="polygon5297"
-             points="575.28,103.7 583.01,67.47 580.05,69.18 573.77,100.67 566.82,76.82 563.74,78.59 556.75,110.5 550.36,86.32 547.39,88.03 555.14,115.38 558.15,113.6 565.18,82.45 572.21,105.48 "
+             points="563.74,78.59 556.75,110.5 550.36,86.32 547.39,88.03 555.14,115.38 558.15,113.6 565.18,82.45 572.21,105.48 575.28,103.7 583.01,67.47 580.05,69.18 573.77,100.67 566.82,76.82 "
              class="cls-32"
-             style="fill:#7270e0" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5299"
              d="m 522.91,101.81 c -7.74,4.47 -13.65,14.6 -13.62,24.09 0.03,9.49 6,12.78 13.71,8.31 7.71,-4.47 13.64,-14.56 13.62,-24.09 -0.02,-9.53 -5.93,-12.8 -13.71,-8.31 z m 0.08,29.63 c -6.12,3.54 -10.84,1.12 -10.86,-7.18 -0.02,-8.3 4.66,-16.1 10.78,-19.64 6.12,-3.54 10.84,-1.16 10.86,7.14 0.02,8.3 -4.66,16.15 -10.77,19.68 z"
              class="cls-32"
              inkscape:connector-curvature="0"
-             style="fill:#7270e0" />
+             style="fill:#222222;fill-opacity:1" />
           <polygon
              id="polygon5301"
-             points="493.64,145.75 478.28,127.94 475.52,129.53 475.61,161.25 478.37,159.66 478.29,132.98 493.65,150.83 496.42,149.24 496.33,117.52 493.56,119.11 "
+             points="478.29,132.98 493.65,150.83 496.42,149.24 496.33,117.52 493.56,119.11 493.64,145.75 478.28,127.94 475.52,129.53 475.61,161.25 478.37,159.66 "
              class="cls-32"
-             style="fill:#7270e0" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5303"
              d="m 748.29,566 -42.83,-24.77 a 5.55,5.55 0 0 0 -5.52,0 l -53.65,30.97 a 2.53,2.53 0 0 0 0,4.38 l 42.2,24.4 a 6.63,6.63 0 0 0 6.66,0 l 53.14,-30.83 a 2.37,2.37 0 0 0 0,-4.15 z"
@@ -3519,218 +3343,218 @@
              style="mix-blend-mode:overlay;fill:#ffffff" />
           <polygon
              id="polygon5327"
-             points="1466.63,450.07 1765.13,622.24 1765.13,792.65 1466.63,620.48 "
+             points="1765.13,622.24 1765.13,792.65 1466.63,620.48 1466.63,450.07 "
              class="cls-36"
-             style="fill:#f5d012" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5329"
-             points="1475.19,445.13 1466.63,450.07 1765.13,622.24 1773.67,617.29 "
+             points="1466.63,450.07 1765.13,622.24 1773.67,617.29 1475.19,445.13 "
              class="cls-37"
-             style="fill:#fcec32" />
+             style="fill:#dbbd3a;fill-opacity:1" />
           <polygon
              id="polygon5331"
-             points="1773.67,617.29 1765.13,622.24 1765.13,792.65 1773.67,787.7 "
+             points="1765.13,622.24 1765.13,792.65 1773.67,787.7 1773.67,617.29 "
              class="cls-38"
-             style="fill:#eaa10c" />
+             style="fill:#ae962d;fill-opacity:1" />
           <polygon
              id="polygon5333"
-             points="1466.63,237.17 1765.13,409.34 1765.13,579.75 1466.63,407.58 "
+             points="1765.13,409.34 1765.13,579.75 1466.63,407.58 1466.63,237.17 "
              class="cls-6"
-             style="fill:#ffffff" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5335"
-             points="1475.19,232.24 1466.63,237.17 1765.13,409.34 1773.67,404.39 "
+             points="1466.63,237.17 1765.13,409.34 1773.67,404.39 1475.19,232.24 "
              class="cls-3"
-             style="fill:#c9dafc" />
+             style="fill:#4f4f4f;fill-opacity:1" />
           <polygon
              id="polygon5337"
-             points="1773.67,404.39 1765.13,409.34 1765.13,579.75 1773.67,574.8 "
+             points="1765.13,409.34 1765.13,579.75 1773.67,574.8 1773.67,404.39 "
              class="cls-4"
-             style="fill:#b8bcfc" />
+             style="fill:#3d3d3d;fill-opacity:1" />
           <path
              id="path5339"
              d="m 1664.4,475.71 -6.58,-3.8 -0.09,29.79 4.83,2.79 v -10.8 l 1.2,0.69 q 3.95,2.28 6,0.94 2.05,-1.34 2.11,-6.08 0.08,-9.18 -7.47,-13.53 z m 1.77,14.11 c -0.58,0.41 -1.47,0.27 -2.65,-0.41 l -0.92,-0.53 v -9.4 l 1.17,0.67 a 6.11,6.11 0 0 1 2.46,2.56 8.75,8.75 0 0 1 0.79,3.94 c -0.02,1.7 -0.27,2.75 -0.85,3.17 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5341"
              d="m 1688.6,498.54 a 15.12,15.12 0 0 0 -1.89,-7.77 15.58,15.58 0 0 0 -5.9,-5.59 l -6.32,-3.65 -0.08,29.8 4.82,2.78 v -11.59 l 1.72,1 4.07,14 5.16,3 -5,-15.94 q 3.41,-0.38 3.42,-6.04 z m -5.63,0.23 c -0.5,0.45 -1.32,0.35 -2.45,-0.3 l -1.24,-0.72 v -8.64 l 1.21,0.69 a 6.32,6.32 0 0 1 2.43,2.38 7.48,7.48 0 0 1 0.78,3.71 c 0.02,1.47 -0.23,2.42 -0.7,2.88 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5343"
              d="m 1700.49,496.08 q -4.53,-2.62 -7,-0.07 -2.47,2.55 -2.45,9.94 a 30.86,30.86 0 0 0 2.39,12.82 16.71,16.71 0 0 0 6.9,8 q 4.49,2.6 6.91,0 2.42,-2.6 2.45,-10 a 31,31 0 0 0 -2.37,-12.75 16.57,16.57 0 0 0 -6.83,-7.94 z m -0.1,25.74 a 7.86,7.86 0 0 1 -3.28,-4.57 26.62,26.62 0 0 1 -1.09,-8.41 c 0,-3.41 0.39,-5.78 1.14,-7.13 0.75,-1.35 1.85,-1.59 3.32,-0.74 2.89,1.66 4.32,6 4.3,12.93 -0.02,6.93 -1.49,9.6 -4.39,7.92 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5345"
              d="m 1724.75,534 -0.15,-0.09 -4.37,-26 -7.41,-4.28 -0.09,29.8 4.47,2.58 0.06,-20 a 51,51 0 0 0 -0.32,-5.57 l 0.2,0.11 4.86,28.23 5.26,3 5,-22.5 0.14,0.08 a 49.05,49.05 0 0 0 -0.26,5 l -0.06,20.2 4.58,2.64 0.08,-29.79 -7.52,-4.35 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5347"
              d="m 1756,532.1 a 16.62,16.62 0 0 0 -6.87,-7.93 q -4.55,-2.62 -7,-0.07 -2.45,2.55 -2.44,9.94 a 30.86,30.86 0 0 0 2.38,12.82 16.72,16.72 0 0 0 6.91,8 q 4.48,2.59 6.9,0 2.42,-2.59 2.45,-10 A 31.18,31.18 0 0 0 1756,532.1 Z m -7,17.81 a 7.85,7.85 0 0 1 -3.27,-4.57 26.59,26.59 0 0 1 -1.1,-8.41 c 0,-3.41 0.39,-5.78 1.14,-7.13 0.75,-1.35 1.86,-1.59 3.32,-0.74 2.89,1.66 4.32,6 4.3,12.93 -0.02,6.93 -1.39,9.6 -4.39,7.92 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5349"
              d="m 1757,409.66 -16.19,-9.37 a 2,2 0 0 0 -3,1.71 v 21.94 a 4.2,4.2 0 0 0 2.1,3.64 l 16.67,9.64 a 2.23,2.23 0 0 0 1.13,0.3 2.28,2.28 0 0 0 2.28,-2.27 v -20.33 a 6.07,6.07 0 0 0 -2.99,-5.26 z m 1.28,25.59 a 0.52,0.52 0 0 1 -0.52,0.51 0.45,0.45 0 0 1 -0.25,-0.07 l -16.67,-9.64 a 2.44,2.44 0 0 1 -1.22,-2.11 V 402 a 0.22,0.22 0 0 1 0.21,-0.21 0.17,0.17 0 0 1 0.1,0 l 16.19,9.36 a 4.33,4.33 0 0 1 2.16,3.74 z"
              class="cls-4"
              inkscape:connector-curvature="0"
-             style="fill:#b8bcfc" />
+             style="fill:#3d3d3d;fill-opacity:1" />
           <polygon
              id="polygon5351"
-             points="1751.53,420.6 1756.34,414.51 1751.68,411.82 1749.04,415.67 1746.33,408.73 1741.8,406.12 1746.49,417.32 1741.45,423.3 1746.07,425.97 1749,422.23 1751.93,429.35 1756.65,432.08 "
+             points="1741.8,406.12 1746.49,417.32 1741.45,423.3 1746.07,425.97 1749,422.23 1751.93,429.35 1756.65,432.08 1751.53,420.6 1756.34,414.51 1751.68,411.82 1749.04,415.67 1746.33,408.73 "
              class="cls-39"
-             style="fill:#ff5c9b" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5353"
              d="m 1757,625.63 -16.19,-9.37 a 2,2 0 0 0 -3,1.7 v 21.95 a 4.19,4.19 0 0 0 2.1,3.63 l 16.67,9.64 a 2.14,2.14 0 0 0 1.13,0.31 2.28,2.28 0 0 0 2.28,-2.28 v -20.32 a 6.07,6.07 0 0 0 -2.99,-5.26 z m 1.28,25.58 a 0.52,0.52 0 0 1 -0.52,0.52 0.45,0.45 0 0 1 -0.25,-0.07 L 1740.83,642 a 2.44,2.44 0 0 1 -1.22,-2.11 V 618 a 0.21,0.21 0 0 1 0.21,-0.2 0.17,0.17 0 0 1 0.1,0 l 16.19,9.36 a 4.33,4.33 0 0 1 2.16,3.74 z"
              class="cls-4"
              inkscape:connector-curvature="0"
-             style="fill:#b8bcfc" />
+             style="fill:#e5c747;fill-opacity:1" />
           <polygon
              id="polygon5355"
-             points="1751.53,636.56 1756.34,630.48 1751.68,627.79 1749.04,631.64 1746.33,624.7 1741.8,622.09 1746.49,633.28 1741.45,639.27 1746.07,641.94 1749,638.19 1751.93,645.32 1756.65,648.04 "
+             points="1741.8,622.09 1746.49,633.28 1741.45,639.27 1746.07,641.94 1749,638.19 1751.93,645.32 1756.65,648.04 1751.53,636.56 1756.34,630.48 1751.68,627.79 1749.04,631.64 1746.33,624.7 "
              class="cls-39"
-             style="fill:#ff5c9b" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5357"
-             points="1466.63,662.97 1765.13,835.14 1765.13,1005.55 1466.63,833.38 "
+             points="1765.13,835.14 1765.13,1005.55 1466.63,833.38 1466.63,662.97 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#989678;fill-opacity:1" />
           <polygon
              id="polygon5359"
-             points="1475.19,658.03 1466.63,662.97 1765.13,835.14 1773.67,830.19 "
+             points="1466.63,662.97 1765.13,835.14 1773.67,830.19 1475.19,658.03 "
              class="cls-40"
-             style="fill:#9263c1" />
+             style="fill:#828063;fill-opacity:1" />
           <polygon
              id="polygon5361"
-             points="1773.67,830.19 1765.13,835.14 1765.13,1005.55 1773.67,1000.6 "
+             points="1765.13,835.14 1765.13,1005.55 1773.67,1000.6 1773.67,830.19 "
              class="cls-41"
-             style="fill:#7231a3" />
+             style="fill:#595744;fill-opacity:1" />
           <polygon
              id="polygon5363"
-             points="1481.43,263.42 1651.97,361.56 1651.97,498.3 1481.43,400.15 "
+             points="1651.97,361.56 1651.97,498.3 1481.43,400.15 1481.43,263.42 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5365"
-             points="1563.4,440.11 1528.79,297.92 1491.73,276.6 1526.35,418.78 "
+             points="1528.79,297.92 1491.73,276.6 1526.35,418.78 1563.4,440.11 "
              class="cls-3"
-             style="fill:#c9dafc" />
+             style="fill:#222222;fill-opacity:1" />
           <polygon
              id="polygon5367"
-             points="1683.78,449.98 1683.78,454.02 1657.73,438.93 1657.73,434.9 "
+             points="1683.78,454.02 1657.73,438.93 1657.73,434.9 1683.78,449.98 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5369"
-             points="1683.78,465.75 1683.78,469.78 1657.73,454.69 1657.73,450.66 "
+             points="1683.78,469.78 1657.73,454.69 1657.73,450.66 1683.78,465.75 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5371"
-             points="1709.83,449.3 1709.83,453.33 1657.73,423.16 1657.73,419.13 "
+             points="1709.83,453.33 1657.73,423.16 1657.73,419.13 1709.83,449.3 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5373"
-             points="1724.73,469.85 1724.73,465.81 1657.73,427.01 1657.73,431.05 "
+             points="1724.73,465.81 1657.73,427.01 1657.73,431.05 1724.73,469.85 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5375"
-             points="1698.79,470.58 1698.79,466.55 1657.73,442.77 1657.73,446.81 "
+             points="1698.79,466.55 1657.73,442.77 1657.73,446.81 1698.79,470.58 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5377"
-             points="1694.47,483.85 1694.47,479.81 1657.73,458.54 1657.73,462.57 "
+             points="1694.47,479.81 1657.73,458.54 1657.73,462.57 1694.47,483.85 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5379"
              d="m 1506.9,502.43 a 47.63,47.63 0 0 1 16.64,16.31 c 9.82,15.77 34.86,88.25 78.19,117.75 9.87,6.71 18.9,17.69 24.66,30.27 l 0.4,0.88 c 9.1,20.11 -12.39,8.14 -15,6.67 l -28.41,-16.41 c -8.6,-5 -16.83,-13.94 -22.38,-24.69 -0.93,-1.81 -1.81,-3.71 -2.61,-5.69 -6.4,-15.86 -24.62,-49.24 -43.17,-66.69 a 14.23,14.23 0 0 0 -2.77,-2.1 c -2.6,-1.51 -6.14,-2.12 -6.39,5.38 0,0.25 0,0.52 0,0.79 0,13.14 -0.56,48 -0.13,48.27 l -6.86,-4 c 0,-2.4 -0.72,-48.1 -5.81,-69.46 -3.78,-15.85 0.47,-30.86 2.92,-37.55 0.9,-2.46 3.18,-3.29 5.9,-2.15 a 40.55,40.55 0 0 1 4.82,2.42 z"
              class="cls-42"
              inkscape:connector-curvature="0"
-             style="fill:#ed4161" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <path
              id="path5381"
              d="m 1584.57,553.83 c 2.11,0.5 3.7,-0.54 3.7,-3.56 0,-3.95 -2.61,-8 -7,-10.55 l -9.78,-5.64 -0.07,25 10.12,5.84 c 4.57,2.64 7.21,1.49 7.22,-2.63 a 11.65,11.65 0 0 0 -4.19,-8.46 z m -7.83,-11.83 3.46,2 a 4.83,4.83 0 0 1 2.69,4.19 c 0,1.7 -1,2 -2.7,1 l -3.47,-2 z m 3.85,17.44 -3.9,-2.25 v -5.51 l 3.84,2.21 a 5.22,5.22 0 0 1 2.83,4.45 c 0.02,1.78 -1,2.12 -2.77,1.1 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <path
              id="path5383"
              d="m 1604.62,568.18 c 0,3 -1.34,3.89 -3.85,2.44 a 7.45,7.45 0 0 1 -3.76,-6.83 v -14.94 l -5.29,-3.05 v 14.9 a 17.91,17.91 0 0 0 8.94,15.49 c 5,2.89 9.23,1.91 9.25,-5 v -14.9 l -5.29,-3 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5385"
-             points="1611.96,557.47 1619.44,578.52 1619.41,586.77 1624.7,589.82 1624.73,581.57 1632.3,569.2 1626.35,565.77 1622.15,573.81 1617.97,560.93 "
+             points="1632.3,569.2 1626.35,565.77 1622.15,573.81 1617.97,560.93 1611.96,557.47 1619.44,578.52 1619.41,586.77 1624.7,589.82 1624.73,581.57 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5387"
-             points="1646.28,577.28 1640.99,574.22 1640.92,599.18 1646.21,602.24 1646.25,586.84 1655.06,607.35 1660.35,610.4 1660.42,585.44 1655.13,582.39 1655.09,597.85 "
+             points="1655.06,607.35 1660.35,610.4 1660.42,585.44 1655.13,582.39 1655.09,597.85 1646.28,577.28 1640.99,574.22 1640.92,599.18 1646.21,602.24 1646.25,586.84 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <path
              id="path5389"
              d="m 1674.53,593.23 c -6.15,-3.55 -11.18,-1.18 -11.2,6.32 -0.02,7.5 5,15.69 11.13,19.25 6.13,3.56 11.12,1.11 11.15,-6.39 0.03,-7.5 -4.89,-15.6 -11.08,-19.18 z m 0,20 a 12.21,12.21 0 0 1 -5.74,-10.58 c 0,-4.44 2.25,-6 5.78,-3.93 a 12.13,12.13 0 0 1 5.7,10.56 c -0.06,4.4 -2.33,5.97 -5.79,3.97 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5391"
-             points="1712.74,640.65 1718.47,618.96 1712.78,615.67 1709.57,632.02 1705.91,611.7 1700.09,608.35 1696.18,624.28 1693.1,604.31 1687.44,601.04 1692.87,629.18 1699.28,632.88 1702.92,618.52 1706.34,636.95 "
+             points="1700.09,608.35 1696.18,624.28 1693.1,604.31 1687.44,601.04 1692.87,629.18 1699.28,632.88 1702.92,618.52 1706.34,636.95 1712.74,640.65 1718.47,618.96 1712.78,615.67 1709.57,632.02 1705.91,611.7 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5393"
-             points="1702.99,696.68 1702.99,692.34 1739.11,713.25 1739.11,717.59 "
+             points="1702.99,692.34 1739.11,713.25 1739.11,717.59 1702.99,696.68 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5395"
-             points="1702.99,713.62 1702.99,709.28 1739.11,730.2 1739.11,734.53 "
+             points="1702.99,709.28 1739.11,730.2 1739.11,734.53 1702.99,713.62 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5397"
-             points="1702.99,730.57 1702.99,726.23 1739.11,747.14 1739.11,751.48 "
+             points="1702.99,726.23 1739.11,747.14 1739.11,751.48 1702.99,730.57 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5399"
-             points="1650.85,658 1650.85,653.66 1739.11,704.77 1739.11,709.11 "
+             points="1650.85,653.66 1739.11,704.77 1739.11,709.11 1650.85,658 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5401"
-             points="1684.47,660.52 1684.47,656.18 1739.11,687.82 1739.11,692.16 "
+             points="1684.47,656.18 1739.11,687.82 1739.11,692.16 1684.47,660.52 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5403"
-             points="1635.94,623.94 1635.94,619.6 1739.11,679.34 1739.11,683.68 "
+             points="1635.94,619.6 1739.11,679.34 1739.11,683.68 1635.94,623.94 "
              class="cls-28"
-             style="fill:#8444b2" />
+             style="fill:#2d2d2d;fill-opacity:1" />
           <polygon
              id="polygon5405"
-             points="1500.32,836.77 1510.64,809.55 1503.2,805.25 1495.94,826.12 1488.87,796.98 1481.4,792.66 1491.53,831.7 "
+             points="1481.4,792.66 1491.53,831.7 1500.32,836.77 1510.64,809.55 1503.2,805.25 1495.94,826.12 1488.87,796.98 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5407"
-             points="1513.56,811.23 1513.46,844.36 1520.48,848.41 1520.58,815.28 "
+             points="1513.46,844.36 1520.48,848.41 1520.58,815.28 1513.56,811.23 "
              class="cls-6"
              style="fill:#ffffff" />
           <path
@@ -3741,12 +3565,12 @@
              style="fill:#ffffff" />
           <polygon
              id="polygon5411"
-             points="1550.93,832.81 1550.84,865.94 1557.86,869.99 1557.95,836.86 "
+             points="1550.84,865.94 1557.86,869.99 1557.95,836.86 1550.93,832.81 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5413"
-             points="1576.05,880.5 1576.13,853.83 1583.77,858.24 1583.79,851.78 1561.48,838.9 1561.47,845.37 1569.11,849.78 1569.03,876.44 "
+             points="1561.47,845.37 1569.11,849.78 1569.03,876.44 1576.05,880.5 1576.13,853.83 1583.77,858.24 1583.79,851.78 1561.48,838.9 "
              class="cls-6"
              style="fill:#ffffff" />
           <path
@@ -3766,117 +3590,117 @@
              d="m 1601.68,799.06 9.43,5.44 0.06,-19.41 14.59,8.42 V 781.39 L 1611.2,773 v -9 l 14.59,8.43 7.85,4.52 v 9 12.12 l 18.26,10.55 v -12.13 -9 l 7.85,4.53 14.59,8.42 v 9 l -14.6,-8.43 v 12.13 l 14.59,8.42 v 19.42 l 9.73,5.62 v -12.49 l 7.84,4.52 -0.06,21.51 -2.78,-1.61 -5.06,-2.92 -9.73,-5.62 v 16.6 7.93 9 l -27.21,-15.71 v -9 l 19.26,11.19 v -7.93 l -47.46,-27.39 v 7.92 l 19.36,11.18 v 9 L 1611,847.06 v -4.64 -4.42 -7.92 -16.6 l -9.43,-5.45 -5.07,-2.92 -2.78,-1.61 0.06,-21.5 7.85,4.53 z m 54.18,40.16 10.52,6.08 v -12.09 l -10.53,-6.08 v 12.09 m -36.94,-21.32 10.53,6.08 V 811.89 L 1619,805.81 v 12.09"
              class="cls-43"
              inkscape:connector-curvature="0"
-             style="fill:#bbda52" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5421"
              d="m 1489.26,734.28 9.44,5.44 v -19.41 l 14.6,8.42 V 716.6 l -14.59,-8.42 v -9 l 14.6,8.42 7.84,4.53 v 9 12.13 l 18.27,10.55 v -12.13 -9 l 7.84,4.53 14.59,8.42 v 9 l -14.6,-8.42 v 12.12 l 14.59,8.43 -0.05,19.42 9.73,5.62 v -12.5 l 7.84,4.53 -0.06,21.51 -2.78,-1.61 -5.07,-2.92 -9.73,-5.62 v 16.6 7.93 9 l -27.2,-15.7 v -9 l 19.36,11.18 v -7.93 l -47.45,-27.4 v 7.93 l 19.37,11.2 v 9 l -27.2,-15.7 v -9 -7.93 l 0.05,-16.6 -9.43,-5.44 -5.06,-2.92 -2.78,-1.61 0.06,-21.5 7.84,4.52 z m 54.18,40.16 10.52,6.08 v -12.09 l -10.52,-6.08 v 12.09 m -36.93,-21.32 10.52,6.07 V 747.1 l -10.49,-6.1 v 12.09"
              class="cls-43"
              inkscape:connector-curvature="0"
-             style="fill:#bbda52" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5423"
              d="m 1757,836.76 -16.19,-9.36 a 1.89,1.89 0 0 0 -1,-0.27 2,2 0 0 0 -2,2 V 851 a 4.2,4.2 0 0 0 2.1,3.64 l 16.67,9.64 a 2.23,2.23 0 0 0 1.13,0.3 2.28,2.28 0 0 0 2.28,-2.27 V 842 a 6.07,6.07 0 0 0 -2.99,-5.24 z m 1.28,25.59 a 0.52,0.52 0 0 1 -0.52,0.51 0.45,0.45 0 0 1 -0.25,-0.07 l -16.67,-9.64 a 2.44,2.44 0 0 1 -1.22,-2.11 V 829.1 a 0.22,0.22 0 0 1 0.21,-0.21 0.17,0.17 0 0 1 0.1,0 l 16.19,9.36 a 4.35,4.35 0 0 1 2.16,3.74 z"
              class="cls-4"
              inkscape:connector-curvature="0"
-             style="fill:#b8bcfc" />
+             style="fill:#ffe46d;fill-opacity:0.17894711" />
           <polygon
              id="polygon5425"
-             points="1751.53,847.7 1756.34,841.61 1751.68,838.92 1749.04,842.77 1746.33,835.83 1741.8,833.22 1746.49,844.42 1741.45,850.4 1746.07,853.07 1749,849.33 1751.93,856.45 1756.65,859.18 "
+             points="1741.8,833.22 1746.49,844.42 1741.45,850.4 1746.07,853.07 1749,849.33 1751.93,856.45 1756.65,859.18 1751.53,847.7 1756.34,841.61 1751.68,838.92 1749.04,842.77 1746.33,835.83 "
              class="cls-39"
-             style="fill:#ff5c9b" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5427"
-             points="1684.64,917.52 1684.64,919.69 1759.03,962.77 1759.03,960.6 "
+             points="1684.64,919.69 1759.03,962.77 1759.03,960.6 1684.64,917.52 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5429"
-             points="1684.64,942.99 1684.64,945.16 1759.03,988.24 1759.03,986.07 "
+             points="1684.64,945.16 1759.03,988.24 1759.03,986.07 1684.64,942.99 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5431"
-             points="1684.64,938.74 1684.64,940.91 1738.8,972.28 1738.8,970.11 "
+             points="1684.64,940.91 1738.8,972.28 1738.8,970.11 1684.64,938.74 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5433"
-             points="1740.94,971.35 1740.94,973.52 1759.03,984 1759.03,981.82 "
+             points="1740.94,973.52 1759.03,984 1759.03,981.82 1740.94,971.35 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5435"
-             points="1684.64,934.5 1684.64,936.67 1709.57,951.11 1709.57,948.94 "
+             points="1684.64,936.67 1709.57,951.11 1709.57,948.94 1684.64,934.5 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5437"
-             points="1711.72,950.18 1711.72,952.35 1759.03,979.75 1759.03,977.58 "
+             points="1711.72,952.35 1759.03,979.75 1759.03,977.58 1711.72,950.18 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5439"
-             points="1684.64,930.25 1684.64,932.42 1709.57,946.87 1709.57,944.69 "
+             points="1684.64,932.42 1709.57,946.87 1709.57,944.69 1684.64,930.25 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5441"
-             points="1711.72,945.93 1711.72,948.11 1759.03,975.5 1759.03,973.33 "
+             points="1711.72,948.11 1759.03,975.5 1759.03,973.33 1711.72,945.93 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5443"
-             points="1684.64,926.01 1684.64,928.18 1717.83,947.4 1717.83,945.23 "
+             points="1684.64,928.18 1717.83,947.4 1717.83,945.23 1684.64,926.01 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5445"
-             points="1719.97,946.47 1719.97,948.64 1759.03,971.26 1759.03,969.09 "
+             points="1719.97,948.64 1759.03,971.26 1759.03,969.09 1719.97,946.47 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5447"
-             points="1709.57,936.2 1684.64,921.76 1684.64,923.93 1709.57,938.38 "
+             points="1684.64,921.76 1684.64,923.93 1709.57,938.38 1709.57,936.2 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5449"
-             points="1711.72,937.45 1711.72,939.62 1759.03,967.01 1759.03,964.84 "
+             points="1711.72,939.62 1759.03,967.01 1759.03,964.84 1711.72,937.45 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5451"
-             points="1717.83,934.67 1717.83,932.49 1684.64,913.27 1684.64,915.44 "
+             points="1717.83,932.49 1684.64,913.27 1684.64,915.44 1717.83,934.67 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5453"
-             points="1698.66,919.32 1698.66,917.15 1684.64,909.03 1684.64,911.2 "
+             points="1698.66,917.15 1684.64,909.03 1684.64,911.2 1698.66,919.32 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5455"
-             points="1700.81,918.39 1700.81,920.56 1759.03,954.28 1759.03,952.11 "
+             points="1700.81,920.56 1759.03,954.28 1759.03,952.11 1700.81,918.39 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5457"
-             points="1738.8,938.32 1738.8,936.15 1684.64,904.78 1684.64,906.95 "
+             points="1738.8,936.15 1684.64,904.78 1684.64,906.95 1738.8,938.32 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5459"
-             points="1759.03,947.86 1740.94,937.39 1740.94,939.56 1759.03,950.03 "
+             points="1740.94,937.39 1740.94,939.56 1759.03,950.03 1759.03,947.86 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5461"
-             points="1740.94,945.88 1740.94,948.05 1759.03,958.52 1759.03,956.35 "
+             points="1740.94,948.05 1759.03,958.52 1759.03,956.35 1740.94,945.88 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5463"
-             points="1738.8,944.64 1719.97,933.74 1719.97,935.91 1738.8,946.81 "
+             points="1719.97,933.74 1719.97,935.91 1738.8,946.81 1738.8,944.64 "
              class="cls-6"
              style="fill:#ffffff" />
           <path
@@ -3884,135 +3708,135 @@
              d="m 1088.62,281.78 v 0 l -0.19,-0.22 -0.1,-0.14 v 0 l -0.14,-0.21 a 1.62,1.62 0 0 1 -0.1,-0.18 v 0 a 1.62,1.62 0 0 1 -0.12,-0.26 l -0.06,-0.14 v 0 a 1.07,1.07 0 0 1 -0.07,-0.19 L 1075.37,239 c -1.37,0 -2.72,0.08 -4.06,0.16 -0.44,0 -0.86,0.06 -1.29,0.09 -0.88,0.06 -1.77,0.11 -2.63,0.19 v 0 h -0.16 c -1.11,0.1 -2.21,0.22 -3.29,0.35 l -0.91,0.12 c -1,0.13 -2,0.28 -3,0.44 l -0.36,0.05 q -1.34,0.23 -2.64,0.48 l -0.54,0.12 -1.09,0.23 c -0.74,0.16 -1.48,0.33 -2.21,0.51 L 1052,242 c -0.76,0.19 -1.51,0.4 -2.25,0.62 l -0.89,0.25 c -1,0.3 -2,0.62 -2.94,0.95 l -0.14,0.05 -10.54,6.13 c 1,-0.36 2,-0.69 3.08,-1 l 0.9,-0.26 c 0.74,-0.22 1.49,-0.42 2.25,-0.62 l 1.11,-0.28 c 0.73,-0.18 1.47,-0.34 2.21,-0.51 l 1.09,-0.23 c 1,-0.21 2.1,-0.41 3.17,-0.59 l 0.37,-0.06 c 1,-0.16 2,-0.3 3,-0.44 l 0.91,-0.11 c 1.08,-0.14 2.17,-0.26 3.29,-0.36 h 0.16 c 0.87,-0.08 1.77,-0.14 2.67,-0.2 0.43,0 0.85,-0.07 1.29,-0.09 1.34,-0.07 2.69,-0.13 4.06,-0.16 l 12.45,41.41 a 1.42,1.42 0 0 1 0,0.16 v 0 0 0 0.09 0 l 0.06,0.13 v 0.09 0 0 0 l 0.07,0.14 0.15,0.22 a 1,1 0 0 0 0.08,0.11 v 0 l 0.1,0.13 0.08,0.08 v 0 0 0 c 0,0 0,0 0,0 v 0 l 12.44,11.8 10.58,-6.15 -12.45,-11.79 z"
              class="cls-44"
              inkscape:connector-curvature="0"
-             style="fill:#de64c6" />
+             style="fill:#f7bd67;fill-opacity:1" />
           <path
              id="path5467"
              d="m 1106,268.86 v 0 a 2.08,2.08 0 0 1 -0.24,-0.34 v -0.05 c -0.07,-0.13 -0.14,-0.25 -0.2,-0.38 v 0 a 3.2,3.2 0 0 1 -0.17,-0.43 l -12.94,-42.84 -1.83,-0.1 h -0.58 -1.39 -0.64 -1.64 -0.75 l -2.58,0.06 h -0.82 c -0.87,0 -1.74,0.09 -2.62,0.17 h -0.34 -0.1 l -1.58,0.17 -0.86,0.1 c -0.79,0.1 -1.58,0.22 -2.36,0.35 h -0.07 l -10.57,6.15 c 0.81,-0.14 1.62,-0.26 2.43,-0.37 0.28,0 0.56,-0.06 0.84,-0.09 l 1.6,-0.18 h 0.44 c 0.88,-0.07 1.75,-0.13 2.62,-0.17 h 0.82 l 2.58,-0.06 h 0.75 1.64 0.64 1.39 0.58 l 1.83,0.1 12.94,42.84 v 0 a 0.19,0.19 0 0 0 0,0.07 v 0.08 0.07 a 0.14,0.14 0 0 0 0,0.07 v 0.07 0.05 0 0 0.07 0.09 l 0.07,0.13 v 0.06 0.06 l 0.06,0.1 0.09,0.13 0.07,0.09 v 0 0 0.07 l 0.07,0.07 a 0.27,0.27 0 0 0 0.07,0.08 l 0.07,0.08 v 0 l 10.68,10.64 10.57,-6.14 -10.36,-10.55 c -0.06,-0.1 -0.16,-0.18 -0.21,-0.32 z"
              class="cls-44"
              inkscape:connector-curvature="0"
-             style="fill:#de64c6" />
+             style="fill:#f7bd67;fill-opacity:1" />
           <path
              id="path5469"
              d="m 1358.79,433.18 v 0 a 1.51,1.51 0 0 1 0.07,-0.38 v 0 a 0.84,0.84 0 0 1 0.13,-0.25 0.77,0.77 0 0 1 0.26,-0.25 l -10.57,6.14 a 0.88,0.88 0 0 0 -0.26,0.25 v 0 l -0.06,0.11 v 0.09 0 0 0 0.08 c 0,0 0,0.05 0,0.08 a 0.25,0.25 0 0 1 0,0.08 v 0.09 0 0.27 a 0.25,0.25 0 0 1 0,0.08 0.19,0.19 0 0 0 0,0.08 v 0 l 4.79,35 10.58,-6.15 -4.8,-35 a 2.4,2.4 0 0 1 -0.14,-0.32 z"
              class="cls-44"
              inkscape:connector-curvature="0"
-             style="fill:#de64c6" />
+             style="fill:#f7bd67;fill-opacity:1" />
           <path
              id="path5471"
              d="m 1369.2,436.46 0.47,0.66 c 1.38,1.94 2.72,3.88 4,5.82 0.93,1.35 1.85,2.71 2.74,4.07 l 10.57,-6.15 c 0.6,-0.47 -23.11,-31.38 -26,-34.82 l -0.64,-0.78 c -0.93,-1.12 -1.88,-2.25 -2.83,-3.37 l -6.07,3.52 3.22,-6.85 1.25,-2.67 2.84,-6.05 c -5.67,-7.53 -11.76,-14.74 -18.13,-21.69 l -6.11,3.55 3.17,-6.71 1.27,-2.67 3.23,-6.83 q -3.08,-3.32 -6.22,-6.58 l -1.86,-1.93 a 564.68,564.68 0 0 0 -41.83,-38.84 531.25,531.25 0 0 0 -86.41,-59.09 l -0.93,-0.51 c -32,-17.35 -67.58,-32.14 -103.88,-37.09 h -0.13 l -0.48,-0.05 c -1.34,-0.18 -2.66,-0.34 -4,-0.49 l -1.2,-0.13 c -1.5,-0.15 -3,-0.29 -4.47,-0.41 l -10.57,6.14 q 2.22,0.18 4.47,0.42 l 1.2,0.13 c 1.32,0.14 2.64,0.3 4,0.48 l 0.61,0.08 c 1.68,0.23 3.37,0.48 5.07,0.76 l 1.12,0.19 q 2.54,0.42 5.12,0.92 l 0.66,0.13 c 1.59,0.32 3.19,0.65 4.8,1 l 1,0.21 q 2.6,0.59 5.22,1.24 l 1.09,0.28 q 2.58,0.65 5.17,1.36 l 0.35,0.09 c 1.81,0.5 3.64,1 5.47,1.58 l 1.19,0.36 c 1.83,0.56 3.66,1.14 5.51,1.74 l 0.82,0.27 c 1.72,0.57 3.44,1.16 5.18,1.76 l 0.92,0.32 c 1.88,0.67 3.78,1.36 5.68,2.07 l 1.21,0.46 c 1.94,0.73 3.88,1.49 5.84,2.27 l 0.45,0.18 c 1.92,0.77 3.84,1.57 5.77,2.38 l 1,0.43 c 2,0.84 4,1.71 5.93,2.59 l 1.2,0.54 q 3.09,1.39 6.21,2.86 l 0.59,0.28 c 2,1 4,1.93 6.06,2.92 l 0.88,0.44 q 3.18,1.57 6.39,3.23 l 1.21,0.63 c 2.12,1.1 4.24,2.22 6.38,3.38 l 1.33,0.72 q 2,1.06 3.95,2.18 l 1.52,0.84 c 1.74,1 3.48,2 5.23,3 2.14,1.24 4.27,2.51 6.41,3.79 1.11,0.66 2.23,1.33 3.34,2 1.66,1 3.31,2 5,3.05 l 3.13,2 q 2.68,1.69 5.34,3.44 c 0.9,0.58 1.8,1.15 2.69,1.74 q 3.73,2.46 7.42,5 l 0.54,0.36 q 4,2.73 7.9,5.52 l 2.5,1.81 c 1.78,1.28 3.55,2.56 5.32,3.86 l 3,2.27 c 1.58,1.18 3.15,2.36 4.72,3.57 1.07,0.81 2.13,1.64 3.19,2.46 1.49,1.17 3,2.34 4.47,3.52 l 3.2,2.57 c 1.46,1.17 2.92,2.36 4.37,3.55 1.06,0.88 2.12,1.75 3.17,2.64 1.47,1.22 2.92,2.46 4.38,3.69 l 2.95,2.54 q 2.26,2 4.5,4 l 2.73,2.42 c 1.85,1.65 3.68,3.33 5.5,5 l 1.47,1.35 c 2.32,2.14 4.6,4.31 6.88,6.49 l 1.53,1.5 c 1.71,1.66 3.42,3.32 5.1,5 0.75,0.74 1.48,1.49 2.22,2.23 1.54,1.54 3.06,3.1 4.58,4.66 l 1.86,1.92 q 3.13,3.27 6.22,6.58 l -3.23,6.84 -1.27,2.67 -11.42,24.15 -10.08,5.85 10.38,1.43 h 0.23 0.09 0.12 a 0.38,0.38 0 0 0 0.13,-0.06 l 10.57,-6.14 a 1.07,1.07 0 0 1 -0.27,0.09 0.93,0.93 0 0 1 -0.29,0 l -8,-1.11 6.59,-3.83 7,-14.85 v 0 l 0.72,0.81 c 0.52,0.57 1,1.15 1.56,1.75 l 0.86,1 1.68,1.64 1,1.14 1.53,1.81 1.08,1.31 c 0.39,0.46 0.78,0.94 1.17,1.41 l 1.19,1.47 1.17,1.46 1,1.3 c 1.05,1.33 2.09,2.68 3.13,4.07 l -2.83,6 -1.25,2.67 -9.48,20.19 -1,2.24 -2.1,-0.44 -10.61,6.2 12.43,2.59 h 0.09 0.21 0.08 v 0 h 0.09 v 0 l 0.12,-0.06 10.58,-6.15 -0.13,0.06 h -0.07 -0.07 -0.12 -0.13 -0.16 l -7.39,-1.54 6.14,-3.56 2.54,-5.43 3.86,-8.21 1.36,1.63 1.8,2.18 2.09,2.58 1.75,2.19 c 0.67,0.84 1.34,1.68 2,2.52 l 2,2.5 1.84,2.41 1.88,2.5 q 0.84,1.11 1.65,2.22 1.91,2.61 3.76,5.2 z"
              class="cls-44"
              inkscape:connector-curvature="0"
-             style="fill:#de64c6" />
+             style="fill:#f7bd67;fill-opacity:1" />
           <path
              id="path5473"
              d="m 1064.8,245.09 12.45,41.41 c 0,0.17 0.09,0.27 0.13,0.38 0.04,0.11 0.16,0.33 0.23,0.45 0.07,0.12 0.18,0.27 0.25,0.36 a 2.76,2.76 0 0 0 0.32,0.36 l 12.44,11.8 c -12.81,-0.27 -18.71,-0.19 -32.18,4.82 l 5,-29.33 a 3.39,3.39 0 0 0 -1.22,-2.82 l -27,-22.51 a 95.92,95.92 0 0 1 29.58,-4.92 z"
              class="cls-30"
              inkscape:connector-curvature="0"
-             style="fill:#ff7ad2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5475"
              d="m 1081.8,230.94 12.94,42.84 a 3.67,3.67 0 0 0 0.94,1.54 l 10.32,10.55 a 109.94,109.94 0 0 0 -25.76,-1.46 h -0.78 l -2.51,-8.35 -9.33,-31.05 -1.23,-4.11 -2.79,-9.28 a 78.36,78.36 0 0 1 18.2,-0.68 z"
              class="cls-30"
              inkscape:connector-curvature="0"
-             style="fill:#ff7ad2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5477"
              d="m 1347,408 a 412.72,412.72 0 0 1 29.43,39 l -27,-8.63 c -0.83,-0.27 -1.37,0.35 -1.23,1.4 l 4.79,35 c -13.39,-20.52 -19.28,-27.4 -32.06,-41.92 l 12.43,2.59 a 1.24,1.24 0 0 0 0.3,0 1.11,1.11 0 0 0 0.26,-0.07 1,1 0 0 0 0.26,-0.16 l 0.15,-0.22 z"
              class="cls-30"
              inkscape:connector-curvature="0"
-             style="fill:#ff7ad2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5479"
              d="m 1330.13,374.29 c 5.27,5.75 11.8,13.29 18.12,21.7 l -2.83,6 -1.25,2.67 -9.48,20.19 -2.55,5.43 -0.77,-0.94 a 360.51,360.51 0 0 0 -25.68,-28.24 l 10.38,1.43 a 0.83,0.83 0 0 0 0.91,-0.48 z"
              class="cls-30"
              inkscape:connector-curvature="0"
-             style="fill:#ff7ad2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5481"
              d="m 1206.08,261.19 a 546.08,546.08 0 0 1 125.61,100.44 l -3.23,6.84 -1.27,2.67 -12.53,26.5 q -3.6,-3.75 -7.36,-7.48 l -3,-3 a 509.72,509.72 0 0 0 -98.34,-73.94 c -35.74,-20.63 -70.14,-34.45 -98.41,-39.66 -1,-0.19 -2,-0.37 -3,-0.53 -2.52,-0.41 -5,-0.77 -7.41,-1 l -12.34,-40.85 -1.24,-4.12 -3.2,-10.56 c 36.51,2.84 79.96,18.27 125.72,44.69 z"
              class="cls-30"
              inkscape:connector-curvature="0"
-             style="fill:#ff7ad2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5483"
              d="m 1308.67,617.06 9.68,-5.57 v 0 h 0.06 v 0 a 7.17,7.17 0 0 1 7.17,0 l 114.67,66.34 a 17,17 0 0 1 8.5,14.74 v 39.89 a 10,10 0 0 1 -4.89,8.65 v 0 l -0.11,0.06 -0.12,0.07 -9.8,5.64 -3.89,-6.84 0.88,-0.43 -83.72,-48.44 -22.78,8.53 7.1,-17.6 -9.28,-5.37 a 14.87,14.87 0 0 1 -7.42,-12.86 v -41.33 c -2.47,-2.23 -6.05,-5.48 -6.05,-5.48 z"
              class="cls-37"
              inkscape:connector-curvature="0"
-             style="fill:#fcec32" />
+             style="fill:#f5d012;fill-opacity:1" />
           <path
              id="path5485"
              d="M 1430.52,683.44 1315.85,617.1 a 7.23,7.23 0 0 0 -10.85,6.26 v 46.13 a 14.85,14.85 0 0 0 7.41,12.86 l 9.29,5.37 -7.1,17.6 22.78,-8.53 86.47,50 a 10.11,10.11 0 0 0 15.18,-8.75 v -39.85 a 17,17 0 0 0 -8.51,-14.75 z"
              class="cls-36"
              inkscape:connector-curvature="0"
-             style="fill:#f5d012" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <polygon
              id="polygon5487"
-             points="1322.7,645.11 1420.58,701.78 1420.58,704.85 1322.7,648.17 "
+             points="1420.58,701.78 1420.58,704.85 1322.7,648.17 1322.7,645.11 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5489"
-             points="1322.7,657 1420.58,713.67 1420.58,716.74 1322.7,660.06 "
+             points="1420.58,713.67 1420.58,716.74 1322.7,660.06 1322.7,657 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5491"
-             points="1377.5,673.96 1377.5,670.89 1420.58,695.84 1420.58,698.9 "
+             points="1377.5,670.89 1420.58,695.84 1420.58,698.9 1377.5,673.96 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5493"
-             points="1322.7,639.16 1374.11,668.93 1374.11,672 1322.7,642.23 "
+             points="1374.11,668.93 1374.11,672 1322.7,642.23 1322.7,639.16 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5495"
-             points="1356.62,673.75 1356.62,670.69 1420.58,707.73 1420.58,710.79 "
+             points="1356.62,670.69 1420.58,707.73 1420.58,710.79 1356.62,673.75 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5497"
-             points="1322.7,651.05 1353.23,668.73 1353.23,671.79 1322.7,654.12 "
+             points="1353.23,668.73 1353.23,671.79 1322.7,654.12 1322.7,651.05 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5499"
-             points="1375.03,696.31 1375.03,693.24 1420.58,719.62 1420.58,722.68 "
+             points="1375.03,693.24 1420.58,719.62 1420.58,722.68 1375.03,696.31 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5501"
-             points="1322.7,662.94 1371.64,691.28 1371.64,694.35 1322.7,666.01 "
+             points="1371.64,691.28 1371.64,694.35 1322.7,666.01 1322.7,662.94 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5503"
-             points="1353.4,689.73 1353.4,686.67 1420.58,725.57 1420.58,728.63 "
+             points="1353.4,686.67 1420.58,725.57 1420.58,728.63 1353.4,689.73 "
              class="cls-45"
              style="fill:#7270df" />
           <polygon
              id="polygon5505"
-             points="463.45,961.94 612.45,1047.99 612.45,1068.18 463.45,982 "
+             points="612.45,1047.99 612.45,1068.18 463.45,982 463.45,961.94 "
              class="cls-3"
              style="fill:#c9dafc" />
           <polygon
              id="polygon5507"
-             points="614.64,874.75 463.45,961.94 612.45,1047.99 763.5,960.87 "
+             points="463.45,961.94 612.45,1047.99 763.5,960.87 614.64,874.75 "
              class="cls-6"
              style="fill:#ffffff" />
           <polygon
              id="polygon5509"
-             points="763.5,960.87 612.45,1047.99 612.45,1068.18 763.5,981.07 "
+             points="612.45,1047.99 612.45,1068.18 763.5,981.07 763.5,960.87 "
              class="cls-4"
              style="fill:#b8bcfc" />
           <polygon
              id="polygon5511"
-             points="725.1,961 614.34,896.92 501.86,961.8 612.71,1025.82 "
+             points="614.34,896.92 501.86,961.8 612.71,1025.82 725.1,961 "
              class="cls-46"
-             style="fill:url(#linear-gradient-6)" />
+             style="fill:#222222;fill-opacity:1" />
           <polygon
              id="polygon5513"
-             points="505.13,963.69 614.34,900.7 721.83,962.89 725.1,961 614.34,896.92 501.86,961.8 "
+             points="501.86,961.8 505.13,963.69 614.34,900.7 721.83,962.89 725.1,961 614.34,896.92 "
              class="cls-3"
              style="fill:#c9dafc" />
           <g
@@ -4043,7 +3867,7 @@
              d="m 382,1107.67 c 0,21 -42.1,38.09 -94,38.09 -51.9,0 -94,-17 -94,-38.09 0,-21.09 42.09,-38.09 94,-38.09 51.91,0 94,17.05 94,38.09 z"
              class="cls-47"
              inkscape:connector-curvature="0"
-             style="opacity:0.07999998;mix-blend-mode:multiply;fill:#2b778f" />
+             style="opacity:0.08;mix-blend-mode:multiply;fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5525"
              d="m 359.55,907 c 0.73,-20.28 -7.3,-56.89 -24.42,-82.9 l 15.66,-14.86 c 0,0 23.94,40.29 25,97.91 4.22,12.1 3.92,15.7 2.55,22.66 -1.37,6.96 -2.4,9.36 -8.21,11.3 -5.81,1.94 -7.22,-4.22 -7.22,-4.22 1.34,-11.18 -0.73,-17.57 -0.73,-17.57 0,0 -2.61,1 -3.3,6.23 -0.69,5.23 -3.77,3.65 -3.77,3.65 0,0 -1.68,-1.44 -0.31,-7.83 A 98.47,98.47 0 0 1 359.55,907 Z"
@@ -4055,13 +3879,13 @@
              d="m 297.77,1108.06 c 3,-3.65 15.21,-11.44 16.58,-12.93 1.37,-1.49 -0.38,-7.22 -0.38,-7.22 l 23,-4.34 a 61.64,61.64 0 0 1 4.32,22.82 c -13.13,7.34 -34.66,15.28 -40.14,15 -5.48,-0.28 -6.35,-9.68 -3.38,-13.33 z"
              class="cls-49"
              inkscape:connector-curvature="0"
-             style="fill:#5874c0" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5529"
              d="m 232.06,1100.29 c 3.61,-3 17.11,-8.35 18.74,-9.55 1.63,-1.2 1,-7.17 1,-7.17 l 23.45,0.12 a 61.62,61.62 0 0 1 -0.09,23.22 c -14.28,4.71 -36.93,8.43 -42.25,7.09 -5.32,-1.34 -4.45,-10.69 -0.85,-13.71 z"
              class="cls-49"
              inkscape:connector-curvature="0"
-             style="fill:#5874c0" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5531"
              d="m 261.78,900.2 c 0,0 -11.22,90 -13,183.54 0,0 12.9,5.58 30.35,2.54 0,0 5.06,-102.56 13,-146.93 l 5.63,-27.61 0.39,-18.14 -33.48,-9.66 z"
@@ -4103,13 +3927,13 @@
              d="m 263.15,777.76 17.92,-5.76 -0.31,5.17 -1.92,21 c 0,0 -1.39,53.1 -0.18,111.22 0.06,2.88 -2.61,6.86 -5.49,7 -2.88,0.14 -9.17,-2.47 -12.92,-4.39 a 4.91,4.91 0 0 1 -2.67,-4.55 c 0.52,-15.14 2.97,-85 5.57,-129.69 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5545"
              d="m 307.19,768.71 c 25.81,7.95 35.86,18.89 35.86,18.89 -9.85,23.78 -8,94.83 -7.25,115.91 a 8.56,8.56 0 0 1 -6.11,8.51 272.31,272.31 0 0 1 -29.21,6.43 4.12,4.12 0 0 1 -4.8,-4 c 2.04,-104.92 11.51,-145.74 11.51,-145.74 z"
              class="cls-28"
              inkscape:connector-curvature="0"
-             style="fill:#8444b2" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5547"
              d="m 312.15,751.42 c 0,0 -2.83,19.34 -21.9,20.45 -22,1.27 -25.38,-25.21 -23.54,-37.84 1.72,-11.8 15.77,-26.53 31.68,-18.58 11.95,5.96 16.79,18.2 13.76,35.97 z"
@@ -4139,13 +3963,13 @@
              d="m 297.47,1119 c 23,-4.41 38.69,-13 43.78,-16.06 0.12,2.13 0.08,3.43 0.08,3.43 -13.13,7.34 -34.66,15.28 -40.14,15 a 4.64,4.64 0 0 1 -3.72,-2.37 z"
              class="cls-54"
              inkscape:connector-curvature="0"
-             style="fill:#58549d" />
+             style="fill:#f5a967;fill-opacity:1" />
           <path
              id="path5557"
              d="m 229.69,1110.82 c 24.95,-0.15 41.07,-5.64 46.08,-7.63 -0.31,2.32 -0.62,3.72 -0.62,3.72 -14.28,4.71 -36.93,8.43 -42.25,7.09 a 4.65,4.65 0 0 1 -3.21,-3.18 z"
              class="cls-54"
              inkscape:connector-curvature="0"
-             style="fill:#58549d" />
+             style="fill:#f5a967;fill-opacity:1" />
           <path
              id="path5559"
              d="m 375.19,894.45 c 0.32,4.14 0.55,8.38 0.63,12.73 -11.56,-2.74 -16.27,-0.15 -16.27,-0.15 a 94.34,94.34 0 0 0 -0.46,-12.21 54.88,54.88 0 0 1 16.1,-0.37 z"
@@ -4157,7 +3981,7 @@
              d="m 1303.66,1094.48 c 0,17.25 34.52,31.24 77.09,31.24 42.57,0 77.09,-14 77.09,-31.24 0,-17.24 -34.51,-31.23 -77.09,-31.23 -42.58,0 -77.09,13.98 -77.09,31.23 z"
              class="cls-55"
              inkscape:connector-curvature="0"
-             style="opacity:0.07999998;mix-blend-mode:multiply;fill:#2c788f" />
+             style="opacity:0.08;mix-blend-mode:multiply;fill:#ffe673;fill-opacity:1" />
           <path
              id="path5563"
              d="m 1417.08,1083 a 28.26,28.26 0 0 0 -7.29,3.32 c -5.12,3.26 -8.31,0 -8.31,0 l -17.83,1.08 c -2.11,2.55 -1.34,22 -1.34,22 4.56,2.22 10.61,2.13 15.52,1.67 11.45,-1 21.84,-6.8 30.44,-14.48 a 15,15 0 0 0 1.66,-1.73 c -1.31,-13.68 -10.58,-12.39 -12.85,-11.86 z"
@@ -4187,13 +4011,13 @@
              d="m 1338,892.3 c 0,0 1.32,28.11 2.08,46.27 l -8.47,139.5 a 2.27,2.27 0 0 0 1.09,2 c 3.21,2.05 13.17,5.71 29.45,3.81 a 3,3 0 0 0 2.7,-2.73 l 8.09,-187.37 z"
              class="cls-57"
              inkscape:connector-curvature="0"
-             style="fill:#3f497a" />
+             style="fill:#dbdbdb;fill-opacity:1" />
           <path
              id="path5573"
              d="m 1404.69,902.85 -35.89,-12.51 a 140.13,140.13 0 0 0 4.51,38.66 l 5.84,158.88 a 2.63,2.63 0 0 0 1.93,2.26 54,54 0 0 0 30.09,-0.1 2.07,2.07 0 0 0 1.54,-2 z"
              class="cls-57"
              inkscape:connector-curvature="0"
-             style="fill:#3f497a" />
+             style="fill:#dbdbdb;fill-opacity:1" />
           <path
              id="path5575"
              d="m 1407.68,790.75 -0.48,0.27 v 0 c 0,0 -3,-1.16 -6.46,-10.12 0.19,-0.12 0.19,-0.71 0.38,-0.83 6.59,-7.58 9.49,-9.23 14.76,-11 5.27,-1.77 7.31,-2 10.89,1.19 3.58,3.19 -0.07,6.56 -0.07,6.56 -8.13,3.44 -11.67,7.34 -11.67,7.34 0,0 1.69,1.39 5.53,-0.19 3.84,-1.58 4,1.15 4,1.15 0,0 -0.33,1.71 -5.21,3.26 a 77.82,77.82 0 0 1 -11.67,2.37 z"
@@ -4208,7 +4032,7 @@
              style="fill:#f9b9a8" />
           <polygon
              id="polygon5579"
-             points="1389.26,761.64 1367.13,755.23 1364.27,771.85 1391.49,775.46 "
+             points="1367.13,755.23 1364.27,771.85 1391.49,775.46 1389.26,761.64 "
              class="cls-58"
              style="fill:#f6a3a8" />
           <path
@@ -4216,13 +4040,13 @@
              d="m 1394.5,773 c 0,0 -18.12,-1.4 -27.93,-5.26 -10.62,-4.19 -23.8,1.81 -27.81,9.23 -2.83,5.23 -7.2,139.74 -7.2,139.74 0,0 41.34,25.31 78.8,6.2 l -5.51,-120.16 c 0,0 -1.92,-24.31 -10.35,-29.75 z"
              class="cls-59"
              inkscape:connector-curvature="0"
-             style="fill:#505891" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5583"
              d="m 1394.42,773 c 0,0 2.74,-0.47 18.32,4.39 l 34.59,12.1 39.93,-18.07 c 0,0 10,2.1 11.67,12.2 l -36.1,23.09 c -7.7,4.43 -11,5.83 -18.76,7 l -39,-6.06 c 0,0 -21.8,-13.18 -10.65,-34.65 z"
              class="cls-59"
              inkscape:connector-curvature="0"
-             style="fill:#505891" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5585"
              d="m 1362.08,714.73 c 6.16,-1.25 14.62,-1.81 20.7,-0.39 10.23,2.39 16,8.3 18.92,17.33 2.92,9.03 4.39,24.42 -0.71,33.21 -3.2,5.51 -10.93,4.85 -16.5,3.71 -6.72,-1.39 -15.55,-3.74 -21.18,-7.42 -7.86,-5.13 -12.46,-16.93 -13.35,-25.57 -0.76,-7.44 2.72,-18.97 12.12,-20.87 z"
@@ -4240,7 +4064,7 @@
              d="m 938.67,1024.28 c 0.39,19.42 -38.13,35.94 -86,36.91 -47.87,0.97 -87.08,-14 -87.47,-33.4 -0.39,-19.4 38.14,-35.94 86.05,-36.91 47.91,-0.97 87.03,13.99 87.42,33.4 z"
              class="cls-61"
              inkscape:connector-curvature="0"
-             style="opacity:0.07000002;mix-blend-mode:multiply;fill:#2c788f" />
+             style="opacity:0.07;mix-blend-mode:multiply;fill:#ffe673;fill-opacity:0.98190886" />
           <path
              id="path5591"
              d="m 793.94,760.36 c 2.23,-28.91 24.19,-36.06 24.19,-36.06 l -6.82,-25 c 0,0 -33.39,15.12 -35.23,61.3 -1.81,45.6 34.57,48.4 34.57,48.4 l 1.88,-15.94 c 0,0 -20.43,-8.88 -18.59,-32.7 z"
@@ -4261,7 +4085,7 @@
              style="fill:#e7e6e6" />
           <polygon
              id="polygon5597"
-             points="914.66,675.74 909.43,705.1 926.18,708.58 931.44,679.03 "
+             points="909.43,705.1 926.18,708.58 931.44,679.03 914.66,675.74 "
              class="cls-64"
              style="fill:#5e6280" />
           <path
@@ -4281,28 +4105,28 @@
              d="m 897.45,1013.89 a 31,31 0 0 0 -7.83,3.75 c -5.46,3.64 -9,0.18 -9,0.18 l -19.29,1.57 c -2.23,2.8 -1,23.8 -1,23.8 5,2.31 11.54,2.08 16.85,1.48 12.37,-1.39 23.5,-7.85 32.65,-16.35 a 17.72,17.72 0 0 0 1.76,-1.92 c -1.68,-14.74 -11.69,-13.14 -14.14,-12.51 z"
              class="cls-66"
              inkscape:connector-curvature="0"
-             style="fill:#b64d51" />
+             style="fill:#f9f9f9;fill-opacity:1" />
           <path
              id="path5605"
              d="m 911,1023.5 c -9.61,8.92 -21.28,15.7 -34.26,17.16 -5.17,0.58 -11.44,0.8 -16.51,-1.1 0.09,2.18 0.18,3.63 0.18,3.63 5,2.31 11.54,2.08 16.85,1.48 12.37,-1.39 23.5,-7.85 32.65,-16.35 a 17.72,17.72 0 0 0 1.76,-1.92 26.44,26.44 0 0 0 -0.54,-3 c -0.13,0 -0.13,0.06 -0.13,0.1 z"
              class="cls-67"
              inkscape:connector-curvature="0"
-             style="fill:#903b42" />
+             style="fill:#d1d1d1;fill-opacity:1" />
           <path
              id="path5607"
              d="m 846.24,1007.16 a 31,31 0 0 0 -7.82,3.75 c -5.47,3.65 -9,0.18 -9,0.18 l -19.29,1.57 c -2.23,2.8 -1,23.8 -1,23.8 5,2.31 11.54,2.08 16.85,1.48 12.38,-1.39 23.5,-7.85 32.65,-16.35 a 16,16 0 0 0 1.76,-1.92 c -1.69,-14.73 -11.7,-13.13 -14.15,-12.51 z"
              class="cls-66"
              inkscape:connector-curvature="0"
-             style="fill:#b64d51" />
+             style="fill:#f9f9f9;fill-opacity:1" />
           <path
              id="path5609"
              d="m 859.75,1016.78 c -9.6,8.91 -21.27,15.69 -34.26,17.15 -5.17,0.58 -11.44,0.81 -16.5,-1.1 0.08,2.18 0.17,3.63 0.17,3.63 5,2.31 11.54,2.08 16.85,1.48 12.38,-1.39 23.5,-7.85 32.65,-16.35 a 16,16 0 0 0 1.76,-1.92 26.44,26.44 0 0 0 -0.54,-3 z"
              class="cls-67"
              inkscape:connector-curvature="0"
-             style="fill:#903b42" />
+             style="fill:#d1d1d1;fill-opacity:1" />
           <polygon
              id="polygon5611"
-             points="827.12,694.91 825.06,690.48 827.88,691.24 "
+             points="827.88,691.24 827.12,694.91 825.06,690.48 "
              class="cls-68"
              style="fill:#bec1c5" />
           <path
@@ -4310,19 +4134,19 @@
              d="m 807.58,809.07 c 0,0 2,30.41 3.26,50.06 l -6.12,151.29 a 2.44,2.44 0 0 0 1.23,2.16 c 3.53,2.16 14.39,5.91 32,3.49 a 3.22,3.22 0 0 0 2.87,-3 l 4.66,-203.13 z"
              class="cls-69"
              inkscape:connector-curvature="0"
-             style="fill:#7186c2" />
+             style="fill:#424242;fill-opacity:1" />
           <path
              id="path5615"
              d="m 880.09,819 -39.15,-12.77 a 152.16,152.16 0 0 0 5.73,41.77 l 9.81,172 a 2.86,2.86 0 0 0 2.14,2.41 58.58,58.58 0 0 0 32.58,-0.77 2.26,2.26 0 0 0 1.63,-2.25 z"
              class="cls-69"
              inkscape:connector-curvature="0"
-             style="fill:#7186c2" />
+             style="fill:#424242;fill-opacity:1" />
           <path
              id="path5617"
              d="m 881.85,820.11 c -0.1,-0.61 -0.21,-1.2 -0.31,-1.76 -1.19,-7.26 -1.8,-14.68 -2.36,-22 -1.11,-14.57 -0.31,-29 -0.64,-43.54 -0.32,-13.87 -1.46,-27.78 -1.74,-41.67 a 7.65,7.65 0 0 0 -0.08,-1.38 l -20.71,-8 -30.84,-5.88 -11.25,2.81 a 10.39,10.39 0 0 0 -9.65,8.13 c -1.45,7.91 -3,20.63 -0.43,30.95 1.68,6.82 1.85,21.05 3.53,33.33 0.17,1.28 -1.9,35.43 -2.75,45.36 0,0 -0.22,2 2.49,4 7.84,6.3 18.44,8.57 28.21,9.68 14.11,1.59 28.66,0.82 42.69,-1.13 4.99,-0.71 4.49,-5.14 3.84,-8.9 z"
              class="cls-60"
              inkscape:connector-curvature="0"
-             style="fill:#b64d50" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5619"
              d="m 827.06,686 c 1,0.92 -0.07,1.49 1,2.21 6.53,4.3 16.36,5.74 24.25,7.48 1.26,0.28 2.63,0.52 4,0.71 l -0.35,5.36 a 45.66,45.66 0 0 1 -21.92,0.48 c -4.32,-1 -7.86,-2.26 -8,-6.38 l 0.26,-10.17 z"
@@ -4364,19 +4188,19 @@
              d="m 477.72,695.67 c 0,0 23.66,-6.1 42.07,0 l 51,2.42 c 0,0 25.24,59.39 -54.69,63.36 0,0 -62.24,5.81 -79.24,-20.1 -17,-25.91 40.86,-45.68 40.86,-45.68 z"
              class="cls-70"
              inkscape:connector-curvature="0"
-             style="fill:#5f64a5" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5633"
              d="m 477.72,695.67 c 0,0 21.74,-5.6 39.75,-0.69 l -3.65,17.17 c 0,0 -21.55,9.87 -52.67,7.5 0,0 -18.14,-3.59 -26.1,5.76 7.31,-17.65 42.67,-29.74 42.67,-29.74 z"
              class="cls-71"
              inkscape:connector-curvature="0"
-             style="fill:#4d5591" />
+             style="fill:#151515;fill-opacity:1" />
           <path
              id="path5635"
              d="M 436.07,621.34 479,600 a 2.86,2.86 0 0 1 3.15,0.4 l 31.72,27.38 -49,25.59 -29.46,-27.16 a 3,3 0 0 1 0.66,-4.87 z"
              class="cls-72"
              inkscape:connector-curvature="0"
-             style="fill:url(#linear-gradient-7)" />
+             style="fill:#444444;fill-opacity:1" />
           <path
              id="path5637"
              d="m 435.37,626.24 29.46,27.16 49,-25.59 -31.73,-27.38 a 2.86,2.86 0 0 0 -1.87,-0.7 2.93,2.93 0 0 0 -1.28,0.3 l -42.88,21.31 a 3,3 0 0 0 -0.7,4.9 z m 0.88,-2.38 a 1.16,1.16 0 0 1 0.64,-0.89 l 42.88,-21.3 a 1,1 0 0 1 0.46,-0.11 1.06,1.06 0 0 1 0.68,0.25 l 29.68,25.62 -45.47,23.75 -28.5,-26.28 a 1.14,1.14 0 0 1 -0.37,-1.04 z"
@@ -4397,7 +4221,7 @@
              style="fill:#f9baa9" />
           <polygon
              id="polygon5643"
-             points="523.8,592.63 543.73,586.86 546.32,601.83 521.79,605.09 "
+             points="543.73,586.86 546.32,601.83 521.79,605.09 523.8,592.63 "
              class="cls-52"
              style="fill:#f9a4a9" />
           <path
@@ -4411,37 +4235,37 @@
              d="m 519.07,602.85 c 0,0 12.16,-0.09 21,-3.57 9.57,-3.77 18.29,-2.51 23.19,5.81 2.73,4.61 15.17,105.62 15.17,105.62 0,0 -40.68,16.63 -75.82,3 l 7.15,-84 c 0,0 1.72,-21.94 9.31,-26.86 z"
              class="cls-8"
              inkscape:connector-curvature="0"
-             style="fill:#ed5f61" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5649"
              d="m 519.15,602.87 c 0,0 -17,1.8 -21.59,22.23 L 488,657.84 458.34,638.49 c 0,0 -6.18,1.91 -5.71,14.81 l 35.48,27.28 c 4.16,2.81 10.21,-0.17 12.54,-4.86 l 18.5,-37.23 a 37.69,37.69 0 0 0 0,-35.62 z"
              class="cls-8"
              inkscape:connector-curvature="0"
-             style="fill:#ed5f61" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5651"
              d="m 453.26,689.41 c 0,0 2.63,-5 9.73,-3.94 7.1,1.06 26.81,16.53 27.09,23.72 0.28,7.19 -5.92,6.12 -5.92,6.12 z"
              class="cls-74"
              inkscape:connector-curvature="0"
-             style="fill:#8c4b78" />
+             style="fill:#d9bb37;fill-opacity:1" />
           <path
              id="path5653"
              d="m 447.73,690.14 a 10.82,10.82 0 0 1 8.44,-1.14 c 18.48,4.79 30.31,24.34 30.31,24.34 0.94,3.35 -7.32,4.58 -7.32,4.58 A 30.89,30.89 0 0 0 464.7,704.8 c -2,-0.73 -10.17,1.72 -10.17,1.72 -12.99,-9.27 -10.53,-14.08 -6.8,-16.38 z"
              class="cls-75"
              inkscape:connector-curvature="0"
-             style="fill:#9c5984" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5655"
              d="m 529.72,542.46 a 26.36,26.36 0 0 1 13.7,2 21.14,21.14 0 0 1 11.64,12 34.45,34.45 0 0 1 -2.69,28.45 c -4.44,7.5 -12.83,11.48 -21.08,13.2 a 55.25,55.25 0 0 1 -9.89,1.26 l -1.84,-8.81 c 3,0 4.85,-3.66 5.41,-7.88 0.56,-4.22 -1.63,-5.61 -3.52,-5.72 -1.89,-0.11 -2.33,8.49 -2.33,8.49 l -2.78,-0.88 a 98.58,98.58 0 0 0 -0.51,-14.08 c 0,0 -7,0.82 -13.22,-5.51 0,0.02 0.39,-20.57 27.11,-22.52 z"
              class="cls-76"
              inkscape:connector-curvature="0"
-             style="fill:#494da5" />
+             style="fill:#5e617f;fill-opacity:1" />
           <path
              id="path5657"
              d="m 1187.8,1154.65 c 0,18.14 -36.29,32.84 -81.06,32.84 -44.77,0 -81.06,-14.7 -81.06,-32.84 0,-18.14 36.29,-32.84 81.06,-32.84 44.77,0 81.06,14.7 81.06,32.84 z"
              class="cls-61"
              inkscape:connector-curvature="0"
-             style="opacity:0.07000002;mix-blend-mode:multiply;fill:#2c788f" />
+             style="opacity:0.07;mix-blend-mode:multiply;fill:#ffe673;fill-opacity:1" />
           <path
              id="path5659"
              d="m 1106.7,1157.13 c 3.42,-3.55 17,-10.69 18.56,-12.12 1.56,-1.43 0.13,-7.47 0.13,-7.47 l 24.79,-2.8 a 61.62,61.62 0 0 1 2.88,23.79 c -14.47,6.61 -37.92,13.24 -43.71,12.54 -5.79,-0.7 -6.07,-10.4 -2.65,-13.94 z"
@@ -4489,37 +4313,37 @@
              d="m 1082.78,954.43 c 0,0 -5.78,83.79 -6.89,172.63 0,0 11.66,5.74 30.54,2 0,0 0,-97.29 7.59,-145.66 l 8,-17.29 -3.36,-11.06 -33.35,-8.65 z"
              class="cls-75"
              inkscape:connector-curvature="0"
-             style="fill:#9c5984" />
+             style="fill:#49598a;fill-opacity:1" />
           <path
              id="path5675"
              d="m 1150.8,952.12 c 0,0 -0.94,89.32 -0.94,101.29 0,11.97 4,81.78 4,81.78 0,0 -6.79,7.79 -31.28,4.79 l -4.94,-77.09 -6.7,-82.92 2.27,-15.91 z"
              class="cls-75"
              inkscape:connector-curvature="0"
-             style="fill:#9c5984" />
+             style="fill:#49598a;fill-opacity:1" />
           <path
              id="path5677"
              d="m 1120.4,957.65 c 0,0 -14.92,2.74 -28.69,-3.74 l 1.94,-7.48 26.75,3.57 z"
              class="cls-75"
              inkscape:connector-curvature="0"
-             style="fill:#9c5984" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5679"
              d="m 1131.33,828.49 -2.33,1.28 c -28.58,14.72 -26.75,-0.15 -26.75,-0.15 h -1.9 l -5.73,7.91 -4.71,-1 4.37,111 c 15,6.65 26.59,4 26.59,4 l 8.24,-29.92 7.39,-85.11 z"
              class="cls-78"
              inkscape:connector-curvature="0"
-             style="fill:#27c8de" />
+             style="fill:#d7d7d7;fill-opacity:1" />
           <path
              id="path5681"
              d="m 1100.35,853.83 a 999.65,999.65 0 0 0 -3.74,114 c 0,0 -13,-8 -17.68,-11.7 0,0 2.6,-73.28 9.74,-129.57 l 13.66,2.92 -0.53,6 z"
              class="cls-79"
              inkscape:connector-curvature="0"
-             style="fill:#1c75bb" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5683"
              d="m 1164.26,846.41 c 0,0 -8.82,-9.17 -32.93,-17.92 0,0 -17.51,31.07 -13,142.75 0,0 31.45,-4.35 36.11,-8 0.02,-0.01 -1.82,-88.74 9.82,-116.83 z"
              class="cls-79"
              inkscape:connector-curvature="0"
-             style="fill:#1c75bb" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5685"
              d="m 1133.65,812.71 c 0,0 -4.65,18.19 -22.9,17.29 -21.06,-1 -21.57,-26.63 -18.54,-38.51 2.83,-11.1 17.68,-23.75 32,-14.56 10.79,6.94 14.12,19.12 9.44,35.78 z"
@@ -4531,37 +4355,37 @@
              d="m 1168.5,849.69 c 0,0 14.87,36.56 17.76,61 0,0 1.77,35.77 -1.33,57.79 a 36.6,36.6 0 0 1 -18.82,-3.83 c 0,0 5,-61.35 -18.72,-90.31 0,-0.03 5.69,-43.48 21.11,-24.65 z"
              class="cls-79"
              inkscape:connector-curvature="0"
-             style="fill:#1c75bb" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5689"
              d="m 1090.86,826.61 c 0,0 -28,-39.22 -30.86,-78.79 0,0 -12.28,0.24 -19,6.43 0,0 1.67,62 45.75,109 z"
              class="cls-79"
              inkscape:connector-curvature="0"
-             style="fill:#1c75bb" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5691"
              d="m 1128.71,828.07 c 0,0 5.68,-0.64 8.21,2.56 l 2.47,20.42 -16.62,9.11 c 0,0 2.66,-23.6 5.94,-32.09 z"
              class="cls-80"
              inkscape:connector-curvature="0"
-             style="fill:#faaf40" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5693"
              d="m 1102.33,829.53 c 0,0 -2,23 -2.66,31.91 l -9.12,-16 9.85,-16.44 z"
              class="cls-80"
              inkscape:connector-curvature="0"
-             style="fill:#faaf40" />
+             style="fill:#ffe46d;fill-opacity:1" />
           <path
              id="path5695"
              d="m 1083.94,816.27 -5.55,1.46 5.55,14 15,-3.1 c -8.23,-3.41 -15,-12.36 -15,-12.36 z"
              class="cls-79"
              inkscape:connector-curvature="0"
-             style="fill:#1c75bb" />
+             style="fill:#222222;fill-opacity:1" />
           <path
              id="path5697"
              d="m 1122.77,793.24 c 0,0 -36.79,21.39 -39.65,8.7 -2.86,-12.69 -2,-24.26 32.23,-31.24 0,0 8.72,1.08 12.48,5.73 0,0 19.21,11.82 8.34,35.7 a 12.91,12.91 0 0 1 -1.68,2.69 l -5.93,7.46 0.16,-10.45 c 0,0 5.9,-10.9 1.25,-11.26 -4.65,-0.36 -7.2,-7.33 -7.2,-7.33 z"
              class="cls-81"
              inkscape:connector-curvature="0"
-             style="fill:#ca5a50" />
+             style="fill:#eece40;fill-opacity:1" />
         </g>
       </g>
     </g>
