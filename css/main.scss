@@ -503,6 +503,9 @@ footer{
       padding-left: 20px;
     }
     span.digital{
+      @media (max-width: 440px){
+        display: none;
+      }
       font-size: 26px;
       padding-left: 10px;
       font-weight: 600;
@@ -628,7 +631,7 @@ footer{
       opacity: 0;
     }
     textarea{
-      min-width: 100%;
+      max-width: 100%;
       border: 3px solid #ccc;
       background: $black;
       color: $white;

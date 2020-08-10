@@ -501,6 +501,11 @@ footer .left span.digital {
   padding-left: 10px;
   font-weight: 600;
 }
+@media (max-width: 440px) {
+  footer .left span.digital {
+    display: none;
+  }
+}
 footer .left span.copyright {
   color: #fffa;
   position: absolute;
@@ -613,7 +618,7 @@ footer .right a:hover::after {
   opacity: 0;
 }
 .popup center textarea {
-  min-width: 100%;
+  max-width: 100%;
   border: 3px solid #ccc;
   background: #222;
   color: #E6E6E6;
