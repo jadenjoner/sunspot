@@ -12,8 +12,11 @@ html {
 body {
   background-image: url(../img/title-background.svg);
   background-color: #E6E6E6;
-  overflow-x: hidden;
   background-repeat: repeat;
+}
+
+body, html {
+  overflow-x: hidden;
 }
 
 center {
