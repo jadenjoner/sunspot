@@ -137,7 +137,7 @@ a:hover {
 }
 
 .down-arrow {
-  position: fixed;
+  position: absolute;
   bottom: -90px;
   left: 0;
   padding: 40px;
@@ -381,7 +381,7 @@ a:hover {
   -webkit-transform-origin: 0 0;
 }
 .bg-wave center .right .iframe-outer img {
-  position: fixed;
+  position: absolute;
   z-index: 1;
   bottom: -4px;
   right: -4px;
@@ -513,6 +513,11 @@ footer .right {
   display: flex;
   align-items: center;
   height: 100px;
+}
+@media (max-width: 600px) {
+  footer .right {
+    display: none;
+  }
 }
 footer .right a {
   text-decoration: none;
