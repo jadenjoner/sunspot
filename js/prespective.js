@@ -24,7 +24,7 @@ setInterval(() => {
 
     for(var b in $$('.prp'+i)){
       if($$('.prp'+i)[b].style != undefined){
-        var offset = prescroll-$$('.prp'+i)[b].offsetParent.offsetTop+(screen.height/2)
+        var offset = $$('.prp'+i)[b].offsetParent && prescroll-$$('.prp'+i)[b].offsetParent.offsetTop+(screen.height/2)
         var change = (5-i)*((  offset )/10)
         $$('.prp'+i)[b].style.transform = `translateY(${change}px)`
 
