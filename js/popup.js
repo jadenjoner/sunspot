@@ -10,7 +10,7 @@ function sucsess() {
 function error() {
   $('.popup textarea').classList.add('error');
   $('.popup .submit').disabled = false;
-  message('invalid input');
+  message('Unknown Error');
 }
 
 function timeout() {
