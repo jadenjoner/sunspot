@@ -114,6 +114,22 @@ a:hover {
   font-size: 40px;
   font-weight: 600;
 }
+@media (max-width: 600px) {
+  .title .outer center img {
+    width: 150px;
+    height: auto;
+    margin-top: -400px;
+  }
+  .title .outer center .right {
+    left: 170px;
+  }
+  .title .outer center .right h1 {
+    font-size: 60px;
+  }
+  .title .outer center .right span {
+    font-size: 30px;
+  }
+}
 
 .down-arrow {
   position: absolute;
@@ -152,12 +168,12 @@ a:hover {
   padding-top: 40px;
 }
 .fg-wave .before {
-  height: 550px;
   background: #222;
   display: block;
   clip-path: polygon(0% 0%, 0% 100%, 100% 100%, 99.88% 6.8%, 94.35% 2.57%, 87.84% -0.08%, 80.94% 1.17%, 73.26% 7.29%, 64.65% 10.39%, 56.89% 10.59%, 48.1% 2.83%, 39.81% 0.2%, 32.17% 2.91%, 23.33% 10.34%, 15.13% 12.8%, 6.92% 7.47%);
   text-align: center;
   padding-top: 100px;
+  z-index: 12;
 }
 .fg-wave .before center {
   width: 1200px;
@@ -192,6 +208,11 @@ a:hover {
   width: 100%;
   font-size: 22px;
   line-height: 40px;
+}
+@media (max-width: 1100px) {
+  .fg-wave .before center .left p {
+    font-size: 18px;
+  }
 }
 .fg-wave .before center .right {
   float: right;
@@ -291,6 +312,11 @@ a:hover {
   width: 100%;
   font-size: 22px;
   line-height: 40px;
+}
+@media (max-width: 1100px) {
+  .bg-wave center .right p {
+    font-size: 18px;
+  }
 }
 .bg-wave center .right ul {
   padding-top: 10px;
@@ -487,6 +513,12 @@ footer .right a:hover::after {
   padding: 40px;
   position: relative;
   box-shadow: 0 0 0 6px rgba(230, 230, 230, 0.2);
+  max-width: 100%;
+}
+.popup center h2 {
+  text-align: center;
+  padding-bottom: 20px;
+  font-size: 26px;
 }
 .popup center .close {
   user-select: none;
@@ -506,13 +538,14 @@ footer .right a:hover::after {
   cursor: pointer;
 }
 .popup center input[type=text] {
+  max-width: 100%;
   display: block;
   outline: none;
   font-size: 18px;
   padding: 5px 10px;
   margin-bottom: 10px;
   border-radius: 8px;
-  width: 300px;
+  width: 250px;
   background: #222;
   color: #E6E6E6;
   border: 3px solid #ccc;
@@ -532,6 +565,7 @@ footer .right a:hover::after {
   opacity: 0;
 }
 .popup center textarea {
+  min-width: 100%;
   border: 3px solid #ccc;
   background: #222;
   color: #E6E6E6;

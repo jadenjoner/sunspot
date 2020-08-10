@@ -3,6 +3,7 @@
 
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon"
       type="image/png"
       href="img/favicon.png">
@@ -150,13 +151,14 @@
 
   <div class="popup">
     <center>
+      <h2>Contact Us</h2>
       <form id="contact-form" action="https://formspree.io/mdowjeyq" method="post">
         <span>Name</span>
-        <input type="text" name="name" placeholder="John Doe" autocomplete="none">
+        <input type="text" name="name" autocomplete="none">
         <span>Email</span>
-        <input class="email" type="text" name="_replyto" placeholder="johndoe@example.com" autocomplete="none">
+        <input class="email" type="text" name="_replyto" autocomplete="none">
         <span>Message</span>
-        <textarea onkeydown="this.classList = ''" name="message" placeholder="Hello" autocomplete="none"></textarea>
+        <textarea onkeydown="this.classList = ''" name="message" autocomplete="none"></textarea>
         <button class="button2 submit" type="submit">Send</button>
       </form>
       <div class="close" onclick="closePopup()">x</div>
@@ -164,6 +166,8 @@
   </div>
 
   <div class="message"></div>
+
+  <div id="bottom"></div>
 
 
 
