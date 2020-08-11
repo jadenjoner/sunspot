@@ -142,9 +142,9 @@
         <span>Name</span>
         <input type="text" name="name" autocomplete="none">
         <span>Email</span>
-        <input class="email" type="text" name="_replyto" autocomplete="none">
+        <input onkeydown="this.classList = 'email'" class="email" type="text" name="_replyto" autocomplete="none">
         <span>Message</span>
-        <textarea onkeydown="this.classList = ''" name="message" autocomplete="none"></textarea>
+        <textarea  name="message" autocomplete="none"></textarea>
         <button class="button2 submit" type="submit">Send</button>
       </form>
       <div class="close" onclick="closePopup()">x</div>

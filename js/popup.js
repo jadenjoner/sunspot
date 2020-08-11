@@ -8,7 +8,7 @@ function sucsess() {
 }
 
 function error() {
-  $('.popup textarea').classList.add('error');
+  $('.popup .email').classList.add('error');
   $('.popup .submit').disabled = false;
   message('Unknown Error');
 }
