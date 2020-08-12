@@ -119,7 +119,7 @@ a:hover {
   font-size: 40px;
   font-weight: 600;
 }
-@media (max-width: 600px) {
+@media (width < 600px), (height < 500px) {
   .title .outer center img {
     width: 150px;
     height: auto;
@@ -133,6 +133,23 @@ a:hover {
   }
   .title .outer center .right span {
     font-size: 7vw;
+  }
+}
+@media (height < 500px) {
+  .title .outer center {
+    width: 600px;
+  }
+  .title .outer center img {
+    margin-top: -500px;
+  }
+  .title .outer center .right {
+    bottom: 20px;
+  }
+  .title .outer center .right h1 {
+    font-size: 67px;
+  }
+  .title .outer center .right span {
+    font-size: 32px;
   }
 }
 
