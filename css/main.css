@@ -143,13 +143,24 @@ a:hover {
     margin-top: -500px;
   }
   .title .outer center .right {
-    bottom: 20px;
+    bottom: calc(70px - 10vw);
   }
   .title .outer center .right h1 {
     font-size: 67px;
   }
   .title .outer center .right span {
     font-size: 32px;
+  }
+}
+@media (max-height: 500px) and (max-width: 600px) {
+  .title .outer center .right {
+    left: 160px;
+  }
+  .title .outer center .right h1 {
+    font-size: 12vw;
+  }
+  .title .outer center .right span {
+    font-size: 7vw;
   }
 }
 
@@ -357,6 +368,8 @@ a:hover {
   width: 100%;
   font-size: 22px;
   line-height: 40px;
+  position: relative;
+  z-index: 1;
 }
 @media (max-width: 1100px) {
   .bg-wave center .right p {
@@ -364,10 +377,12 @@ a:hover {
   }
 }
 .bg-wave center .right ul {
+  z-index: 1;
   padding-top: 10px;
   padding-left: 30px;
 }
 .bg-wave center .right ul li {
+  z-index: 1;
   width: 100%;
   font-size: 20px;
   line-height: 40px;
@@ -584,6 +599,8 @@ footer .right a:hover::after {
   position: relative;
   box-shadow: 0 0 0 6px rgba(230, 230, 230, 0.2);
   max-width: calc(100% - 12px);
+  max-height: calc(100vh - 12px);
+  overflow-y: auto;
 }
 .popup center h2 {
   text-align: center;
