@@ -423,6 +423,12 @@ a:hover {
   border-radius: 30px;
   border-bottom-right-radius: 0;
   padding: 4px;
+  width: 40px;
+  filter: contrast(0.9);
+  transition: 0.1s;
+}
+.bg-wave center .right .iframe-outer img:hover {
+  width: 44px;
 }
 .bg-wave center .right .stand {
   width: 450px;

@@ -447,7 +447,12 @@ a{
           border-radius: 30px;
           border-bottom-right-radius: 0;
           padding: 4px;
-
+          width: 40px;
+          filter: contrast(0.9);
+          transition: 0.1s;
+          &:hover{
+            width: 44px;
+          }
         }
       }
       .stand{
