@@ -583,7 +583,7 @@ footer .right a:hover::after {
   padding: 40px;
   position: relative;
   box-shadow: 0 0 0 6px rgba(230, 230, 230, 0.2);
-  max-width: 100%;
+  max-width: calc(100% - 12px);
 }
 .popup center h2 {
   text-align: center;

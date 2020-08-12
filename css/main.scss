@@ -592,7 +592,7 @@ footer{
     padding: 40px;
     position: relative;
     box-shadow: 0 0 0 6px rgba($white, 0.2);
-    max-width: 100%;
+    max-width: calc(100% - 12px);
 
     h2{
       text-align: center;
