@@ -10,7 +10,6 @@ setInterval(() => {
   prescroll = (prescroll*9+scroll)/10
   var diff = Math.abs(scroll-prescroll)
   if(diff>500){
-    console.log('diff', scroll - prescroll)
     prescroll = (prescroll*(diff/100-1)+scroll)/(diff/100)
   }
 
