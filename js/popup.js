@@ -47,3 +47,9 @@ form.addEventListener("submit", function(ev) {
   var data = new FormData(form);
   ajax(form.method, form.action, data, sucsess, error, timeout);
 });
+
+function popupClick(a){
+  if(a.target.className == 'popup'){
+    closePopup();
+  }
+}
