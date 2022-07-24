@@ -551,6 +551,14 @@ footer .left span.copyright {
   left: 120px;
   bottom: 10px;
   font-size: 13px;
+  width: 500px;
+}
+footer .left span.copyright a {
+  color: inherit;
+  text-decoration: underline;
+}
+footer .left span.copyright a:hover, footer .left span.copyright a:focus-visible {
+  color: #FFE46C;
 }
 footer .right {
   float: right;

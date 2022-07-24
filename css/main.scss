@@ -553,6 +553,15 @@ footer{
       left: 120px;
       bottom: 10px;
       font-size: 13px;
+      width: 500px;
+
+      a{
+        color: inherit;
+        text-decoration: underline;
+        &:hover, &:focus-visible{
+          color: $theme;
+        }
+      }
     }
   }
   .right{
